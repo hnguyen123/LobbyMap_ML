@@ -1,0 +1,645 @@
+new_region,company_name,count
+africa,Anglo American,2
+africa,ArcelorMittal,5
+africa,BASF,3
+africa,BHP,3
+africa,BMW Group,1
+africa,BP,1
+africa,Chevron,2
+africa,EDF,1
+africa,Engie,4
+africa,Eni,1
+africa,Equinor (formerly Statoil),2
+africa,Eskom Holdings Soc Limited,8
+africa,ExxonMobil,1
+africa,General Electric,3
+africa,Glencore International,3
+africa,Nissan,1
+africa,Rio Tinto Group,3
+africa,SSAB,1
+africa,Sasol,7
+africa,South32,4
+africa,TotalEnergies,1
+africa,Vale,1
+africa,Volkswagen Group,1
+asia,AES Corporation,1
+asia,Anglo American,1
+asia,Antam (Aneka Tambang),7
+asia,Coal India,3
+asia,ExxonMobil,2
+asia,Gazprom,1
+asia,General Electric,2
+asia,Origin Energy,1
+asia,PTT Global Chemicals,3
+asia,Rosneft,1
+asia,Saint-Gobain,1
+asia,Santos,2
+asia,Toray Industries Inc.,1
+asia,Toyota Motor,1
+asia,Vedanta Resources,6
+australia,AGL Australia,9
+australia,Anglo American,3
+australia,BHP,46
+australia,BMW Group,1
+australia,BP,19
+australia,Bluescope Steel,31
+australia,Boral Limited,1
+australia,Chevron,7
+australia,ConocoPhillips,2
+australia,Dow Inc,4
+australia,Enel,2
+australia,Engie,5
+australia,ExxonMobil,15
+australia,Ford Motor,2
+australia,General Electric,10
+australia,General Motors,2
+australia,Glencore International,15
+australia,Holcim,2
+australia,Iberdrola,4
+australia,Incitec Pivot,4
+australia,Korea Electric Power Corporation (KEPCO),1
+australia,Nissan,7
+australia,Orica,4
+australia,Origin Energy,31
+australia,Qantas Airways,7
+australia,RWE,1
+australia,Renault,1
+australia,Repsol,1
+australia,Rio Tinto Group,34
+australia,Santos,54
+australia,Saudi Aramco,2
+australia,Shell,14
+australia,Siemens Energy,1
+australia,South32,8
+australia,TotalEnergies,3
+australia,Toyota Motor,13
+australia,Unilever,3
+australia,Volkswagen Group,4
+australia,Volvo Group,1
+australia,Woodside,70
+brazil,Daikin Industries,2
+brazil,Petrobras,1
+brazil,Suzano (formerly Fibria Celulose),6
+brazil,Vale,2
+canada,Air Liquide,1
+canada,BP,2
+canada,Canadian Natural Resources Ltd (CNRL),10
+canada,Chevron,4
+canada,ConocoPhillips,9
+canada,Enbridge,26
+canada,ExxonMobil,1
+canada,Ford Motor,1
+canada,General Electric,1
+canada,Glencore International,1
+canada,Holcim,1
+canada,Honda Motor,1
+canada,Imperial Oil Limited,16
+canada,Rio Tinto Group,7
+canada,Shell,13
+canada,Suncor Energy,48
+canada,TC Energy,21
+canada,Teck Resources Limited,9
+canada,TotalEnergies,3
+canada,Toyota Motor,7
+canada,Vale,3
+china,Air Liquide,2
+china,BP,1
+china,Bayer,1
+china,Chevron,1
+china,Cummins,1
+china,EDF,1
+china,ExxonMobil,2
+china,General Motors,4
+china,Panasonic,1
+china,Rio Tinto Group,2
+china,Santos,1
+czech_republic,CEZ,3
+czech_republic,TotalEnergies,1
+eu,Air France-KLM,36
+eu,Air Liquide,28
+eu,Airbus Group,30
+eu,Anglo American,5
+eu,ArcelorMittal,76
+eu,BASF,128
+eu,BMW Group,49
+eu,BP,40
+eu,Bayer,12
+eu,Boeing,5
+eu,CEZ,21
+eu,CRH,1
+eu,Cemex,14
+eu,Centrica,7
+eu,Chevron,3
+eu,Coca-Cola,18
+eu,Cummins,2
+eu,Daikin Industries,1
+eu,Danone,6
+eu,Delta Air Lines,1
+eu,Dow Inc,11
+eu,E.ON,88
+eu,EDF,143
+eu,Enel,134
+eu,Engie,79
+eu,Eni,20
+eu,Equinor (formerly Statoil),37
+eu,ExxonMobil,20
+eu,Ford Motor,10
+eu,Fortum,40
+eu,Gazprom,13
+eu,General Electric,9
+eu,General Motors,3
+eu,Glencore International,3
+eu,HeidelbergCement,15
+eu,Holcim,46
+eu,Honda Motor,2
+eu,Iberdrola,108
+eu,LyondellBasell Industries,8
+eu,Moller Maersk (Maersk),19
+eu,National Grid,14
+eu,Naturgy (Gas Natural Fenosa),16
+eu,Nestlé,18
+eu,Nissan,7
+eu,OMV,18
+eu,Origin Energy,2
+eu,PGE (Polska Grupa Energetyczna),38
+eu,Panasonic,1
+eu,PepsiCo,10
+eu,Philips,8
+eu,RWE,61
+eu,Raytheon Technologies Corporation (formerly United Technologies),1
+eu,Renault,12
+eu,Repsol,35
+eu,Rio Tinto Group,2
+eu,Rolls-Royce,4
+eu,Rosneft,1
+eu,SSAB,40
+eu,SSE,40
+eu,Saint-Gobain,40
+eu,Sasol,1
+eu,Shell,145
+eu,Siemens Energy,37
+eu,Stellantis,4
+eu,Suncor Energy,3
+eu,TotalEnergies,40
+eu,Toyota Motor,3
+eu,Trane Technologies (formerly Ingersoll-Rand),15
+eu,Unilever,32
+eu,Uniper,56
+eu,United Airlines,1
+eu,Vale,1
+eu,Valero Energy,1
+eu,Volkswagen Group,51
+eu,Volvo Group,32
+eu,thyssenkrupp,25
+europe,Air France-KLM,5
+europe,Air Liquide,6
+europe,ArcelorMittal,3
+europe,BASF,25
+europe,BMW Group,1
+europe,BP,4
+europe,Bayer,2
+europe,CEZ,3
+europe,Canadian Natural Resources Ltd (CNRL),1
+europe,Centrica,2
+europe,Coca-Cola,1
+europe,Dow Inc,1
+europe,E.ON,3
+europe,Enel,2
+europe,Engie,1
+europe,Equinor (formerly Statoil),9
+europe,Ford Motor,1
+europe,Gazprom,23
+europe,Glencore International,1
+europe,HeidelbergCement,2
+europe,Hitachi,1
+europe,Holcim,3
+europe,Honda Motor,1
+europe,Lukoil,1
+europe,Moller Maersk (Maersk),2
+europe,National Grid,1
+europe,Naturgy (Gas Natural Fenosa),2
+europe,Nestlé,2
+europe,Nissan,2
+europe,OMV,7
+europe,PepsiCo,1
+europe,Philips,1
+europe,Qantas Airways,1
+europe,Renault,1
+europe,Repsol,3
+europe,Rolls-Royce,1
+europe,Rosneft,7
+europe,SSAB,8
+europe,SSE,1
+europe,Saint-Gobain,3
+europe,Sasol,1
+europe,Severstal,4
+europe,Shell,2
+europe,Siemens Energy,2
+europe,TotalEnergies,3
+europe,Toyota Motor,2
+europe,Trane Technologies (formerly Ingersoll-Rand),2
+europe,Unilever,1
+europe,Uniper,1
+europe,Valero Energy,1
+europe,Volkswagen Group,3
+europe,Volvo Group,3
+europe,thyssenkrupp,8
+france,Air France-KLM,8
+france,Air Liquide,3
+france,American Airlines Group,1
+france,ArcelorMittal,1
+france,Delta Air Lines,1
+france,EDF,19
+france,Engie,25
+france,Holcim,1
+france,Renault,1
+france,Saint-Gobain,14
+france,Siemens Energy,1
+france,TotalEnergies,4
+france,Volvo Group,2
+germany,Air Liquide,1
+germany,ArcelorMittal,3
+germany,BASF,35
+germany,BMW Group,3
+germany,Bayer,2
+germany,CEZ,1
+germany,E.ON,13
+germany,Fortum,2
+germany,General Electric,1
+germany,HeidelbergCement,2
+germany,OMV,1
+germany,RWE,33
+germany,Rio Tinto Group,1
+germany,Saint-Gobain,2
+germany,Shell,2
+germany,Suncor Energy,1
+germany,Uniper,4
+germany,United Airlines,1
+germany,Volkswagen Group,17
+germany,thyssenkrupp,22
+global,AES Corporation,16
+global,AGL Australia,3
+global,Air France-KLM,11
+global,Air Liquide,68
+global,Airbus Group,51
+global,American Airlines Group,3
+global,American Electric Power,1
+global,Anglo American,57
+global,Antam (Aneka Tambang),2
+global,ArcelorMittal,57
+global,BASF,94
+global,BHP,85
+global,BMW Group,13
+global,BP,142
+global,Bayer,64
+global,Berkshire Hathaway,4
+global,Bluescope Steel,13
+global,Boeing,24
+global,Boral Limited,1
+global,CEZ,5
+global,CRH,5
+global,Canadian Natural Resources Ltd (CNRL),10
+global,Caterpillar,2
+global,Cemex,22
+global,Centrica,9
+global,Chevron,51
+global,Coca-Cola,16
+global,ConocoPhillips,24
+global,Cummins,14
+global,Daikin Industries,1
+global,Danone,33
+global,Delta Air Lines,8
+global,Devon Energy,3
+global,Dow Inc,24
+global,Duke Energy,5
+global,E.ON,26
+global,EDF,45
+global,Ecopetrol,3
+global,Enbridge,17
+global,Enel,57
+global,Engie,45
+global,Eni,23
+global,Equinor (formerly Statoil),41
+global,Eskom Holdings Soc Limited,6
+global,ExxonMobil,134
+global,Ford Motor,16
+global,Fortum,19
+global,Gazprom,6
+global,General Electric,41
+global,General Motors,10
+global,Glencore International,53
+global,Grupo Argos,4
+global,Grupo México,3
+global,HeidelbergCement,20
+global,Hitachi,2
+global,Holcim,60
+global,Honda Motor,17
+global,Iberdrola,67
+global,Imperial Oil Limited,17
+global,Incitec Pivot,2
+global,International Paper Company,4
+global,Kinder Morgan,4
+global,Lukoil,1
+global,LyondellBasell Industries,7
+global,Mercedes-Benz Group,1
+global,Moller Maersk (Maersk),67
+global,NRG Energy,2
+global,National Grid,27
+global,Naturgy (Gas Natural Fenosa),25
+global,Nestlé,39
+global,Nippon Steel Corporation,3
+global,Nissan,20
+global,OMV,17
+global,Occidental Petroleum,17
+global,Orica,5
+global,Origin Energy,11
+global,POSCO,5
+global,PPL Corporation,1
+global,Panasonic,5
+global,PepsiCo,10
+global,Petrobras,8
+global,Philips,11
+global,Phillips 66,2
+global,Qantas Airways,8
+global,RWE,19
+global,Raytheon Technologies Corporation (formerly United Technologies),5
+global,Reliance Industries Limited,1
+global,Renault,15
+global,Repsol,33
+global,Rio Tinto Group,62
+global,Rolls-Royce,24
+global,Rosneft,7
+global,SK Innovation Co,2
+global,SSAB,30
+global,SSE,24
+global,Saint-Gobain,42
+global,Santos,14
+global,Sasol,9
+global,Saudi Aramco,12
+global,Severstal,3
+global,Shell,155
+global,Siemens Energy,57
+global,South32,22
+global,Stellantis,3
+global,Suncor Energy,32
+global,Suzano (formerly Fibria Celulose),3
+global,TC Energy,15
+global,Teck Resources Limited,18
+global,Toray Industries Inc.,2
+global,TotalEnergies,80
+global,Toyota Motor,12
+global,Trane Technologies (formerly Ingersoll-Rand),29
+global,UltraTech Cement,5
+global,Unilever,100
+global,Uniper,9
+global,United Airlines,29
+global,Vale,4
+global,Valero Energy,4
+global,Vedanta Resources,10
+global,Vistra Corp,3
+global,Volkswagen Group,21
+global,Volvo Group,26
+global,Walmart Stores,16
+global,Woodside,39
+global,thyssenkrupp,26
+india,AES Corporation,1
+india,ArcelorMittal,1
+india,BP,4
+india,Coal India,11
+india,Daikin Industries,1
+india,General Electric,1
+india,Holcim,1
+india,Honda Motor,2
+india,Mercedes-Benz Group,1
+india,Reliance Industries Limited,1
+india,Renault,1
+india,Shell,5
+india,Suzuki,2
+india,TotalEnergies,4
+india,Toyota Motor,12
+india,UltraTech Cement,2
+india,Vedanta Resources,17
+italy,Air Liquide,1
+italy,EDF,1
+italy,Enel,6
+italy,Eni,4
+japan,Air Liquide,1
+japan,BHP,2
+japan,Boeing,1
+japan,Hitachi,1
+japan,Honda Motor,3
+japan,Nippon Steel Corporation,6
+japan,Nissan,3
+japan,Panasonic,2
+japan,Suzuki,1
+japan,TotalEnergies,1
+japan,Toyota Motor,10
+korea,Air Liquide,3
+korea,Korea Electric Power Corporation (KEPCO),1
+korea,POSCO,9
+korea,SK Innovation Co,1
+mexico,Cemex,3
+mexico,Dow Inc,1
+mexico,Grupo México,1
+mexico,Pemex (Petróleos Mexicanos),2
+middle_east,Air Liquide,1
+middle_east,Saudi Aramco,13
+netherlands,Air France-KLM,2
+netherlands,Air Liquide,1
+netherlands,Delta Air Lines,1
+netherlands,Fortum,1
+netherlands,LyondellBasell Industries,1
+netherlands,RWE,6
+netherlands,Uniper,7
+new_zealand,BMW Group,3
+new_zealand,BP,2
+new_zealand,Ford Motor,2
+new_zealand,Holcim,4
+new_zealand,Nissan,1
+new_zealand,Renault,2
+new_zealand,Rio Tinto Group,4
+new_zealand,Suzuki,2
+new_zealand,Toyota Motor,6
+nigeria,Chevron,1
+nigeria,Shell,2
+nigeria,TotalEnergies,3
+north_america,AES Corporation,2
+north_america,Air Liquide,1
+north_america,ArcelorMittal,1
+north_america,BP,5
+north_america,Chevron,3
+north_america,ConocoPhillips,2
+north_america,Cummins,1
+north_america,Danone,2
+north_america,Enbridge,17
+north_america,Enel,1
+north_america,ExxonMobil,1
+north_america,General Motors,2
+north_america,Honda Motor,1
+north_america,Kinder Morgan,8
+north_america,Occidental Petroleum,4
+north_america,Suncor Energy,5
+north_america,TC Energy,34
+north_america,Toyota Motor,1
+north_america,Weyerhaeuser Company,1
+norway,Equinor (formerly Statoil),1
+norway,HeidelbergCement,1
+oceania,Bluescope Steel,12
+oceania,ExxonMobil,3
+oceania,OMV,4
+oceania,Origin Energy,1
+oceania,Rio Tinto Group,3
+poland,PGE (Polska Grupa Energetyczna),25
+south_africa,Anglo American,13
+south_africa,ArcelorMittal,4
+south_africa,Eskom Holdings Soc Limited,21
+south_africa,Nestlé,1
+south_africa,Sasol,28
+south_africa,South32,1
+south_america,AES Corporation,7
+south_america,BASF,2
+south_america,Dow Inc,4
+south_america,Ecopetrol,8
+south_america,Grupo Argos,3
+south_america,Petrobras,5
+south_america,Vale,3
+southeast_asia,Toyota Motor,1
+spain,Air Liquide,1
+spain,ArcelorMittal,2
+spain,Enel,9
+spain,Iberdrola,9
+spain,Moller Maersk (Maersk),1
+spain,Naturgy (Gas Natural Fenosa),1
+spain,Repsol,5
+spain,Siemens Energy,2
+spain,Volkswagen Group,2
+thailand,PTT Global Chemicals,3
+united_kingdom,Air Liquide,2
+united_kingdom,Airbus Group,13
+united_kingdom,Anglo American,2
+united_kingdom,BASF,1
+united_kingdom,BMW Group,7
+united_kingdom,BP,21
+united_kingdom,Bayer,4
+united_kingdom,Boeing,2
+united_kingdom,CRH,5
+united_kingdom,Cemex,3
+united_kingdom,Centrica,25
+united_kingdom,Coca-Cola,9
+united_kingdom,Danone,4
+united_kingdom,E.ON,32
+united_kingdom,EDF,50
+united_kingdom,Engie,12
+united_kingdom,Eni,1
+united_kingdom,Equinor (formerly Statoil),5
+united_kingdom,ExxonMobil,3
+united_kingdom,Ford Motor,7
+united_kingdom,Fortum,1
+united_kingdom,Holcim,4
+united_kingdom,Honda Motor,10
+united_kingdom,Iberdrola,8
+united_kingdom,National Grid,36
+united_kingdom,Nestlé,13
+united_kingdom,Nissan,7
+united_kingdom,PACCAR,1
+united_kingdom,PPL Corporation,1
+united_kingdom,Phillips 66,2
+united_kingdom,RWE,19
+united_kingdom,Renault,2
+united_kingdom,Rolls-Royce,16
+united_kingdom,SSE,79
+united_kingdom,Saint-Gobain,6
+united_kingdom,Shell,38
+united_kingdom,Stellantis,4
+united_kingdom,Suzuki,1
+united_kingdom,TotalEnergies,1
+united_kingdom,Toyota Motor,9
+united_kingdom,Unilever,10
+united_kingdom,Uniper,32
+united_kingdom,Valero Energy,2
+united_kingdom,Volkswagen Group,6
+united_kingdom,Volvo Group,2
+united_states,AES Corporation,47
+united_states,Air Liquide,18
+united_states,Airbus Group,5
+united_states,American Airlines Group,11
+united_states,American Electric Power,2
+united_states,ArcelorMittal,10
+united_states,BASF,33
+united_states,BHP,14
+united_states,BMW Group,15
+united_states,BP,75
+united_states,Bayer,10
+united_states,Berkshire Hathaway,5
+united_states,Boeing,9
+united_states,Canadian Natural Resources Ltd (CNRL),1
+united_states,Caterpillar,2
+united_states,Cemex,2
+united_states,Centrica,4
+united_states,Chevron,57
+united_states,Coca-Cola,21
+united_states,ConocoPhillips,29
+united_states,Cummins,16
+united_states,Daikin Industries,5
+united_states,Danone,37
+united_states,Delta Air Lines,18
+united_states,Devon Energy,4
+united_states,Dow Inc,42
+united_states,Duke Energy,13
+united_states,E.ON,6
+united_states,EDF,23
+united_states,Enbridge,10
+united_states,Enel,27
+united_states,Engie,5
+united_states,Equinor (formerly Statoil),18
+united_states,ExxonMobil,104
+united_states,Ford Motor,57
+united_states,General Electric,32
+united_states,General Motors,79
+united_states,HeidelbergCement,9
+united_states,Holcim,39
+united_states,Honda Motor,20
+united_states,Iberdrola,23
+united_states,International Paper Company,2
+united_states,Kinder Morgan,12
+united_states,LyondellBasell Industries,4
+united_states,Mercedes-Benz Group,5
+united_states,Moller Maersk (Maersk),3
+united_states,NRG Energy,1
+united_states,National Grid,83
+united_states,Nestlé,30
+united_states,Nissan,13
+united_states,Occidental Petroleum,25
+united_states,PACCAR,4
+united_states,PPL Corporation,2
+united_states,Panasonic,1
+united_states,Pemex (Petróleos Mexicanos),2
+united_states,PepsiCo,13
+united_states,Phillips 66,6
+united_states,RWE,5
+united_states,Raytheon Technologies Corporation (formerly United Technologies),4
+united_states,Renault,6
+united_states,Repsol,2
+united_states,Rio Tinto Group,3
+united_states,SK Innovation Co,1
+united_states,SSAB,12
+united_states,Saint-Gobain,18
+united_states,Shell,89
+united_states,Siemens Energy,8
+united_states,South32,1
+united_states,Stellantis,13
+united_states,TC Energy,12
+united_states,TotalEnergies,19
+united_states,Toyota Motor,29
+united_states,Trane Technologies (formerly Ingersoll-Rand),30
+united_states,Unilever,68
+united_states,United Airlines,26
+united_states,Valero Energy,7
+united_states,Vistra Corp,12
+united_states,Volkswagen Group,23
+united_states,Volvo Group,22
+united_states,Walmart Stores,17
+united_states,Weyerhaeuser Company,1
+united_states,Woodside,1
+united_states,thyssenkrupp,3
+vietnam,AES Corporation,2

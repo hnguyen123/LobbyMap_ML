@@ -1,0 +1,3249 @@
+evidence_year,evidence_region,company_name,unique_document_id,unique_sentence_id,total_word_count
+2022,global,AES Corporation,6,379,14803
+2022,united_states,AES Corporation,20,3696,42097
+2022,united_states,Cummins,13,1736,43039
+2022,new_york,AES Corporation,2,2215,11923
+2022,south_america,AES Corporation,2,11,112
+2022,united_states,Dominion Energy,27,7317,231254
+2022,united_states,Duke Energy,29,7518,151925
+2022,united_states,NRG Energy,17,4370,63931
+2022,united_states,National Grid,31,4801,73550
+2022,united_states,PPL Corporation,12,3789,184131
+2022,united_states,XCEL Energy,23,7250,91247
+2022,united_states,Southern Company,27,8195,106599
+2022,united_states,Vistra Corp,10,2275,23359
+2022,north_america,AES Corporation,1,45,664
+2022,north_america,General Motors,1,45,664
+2022,united_states,NextEra Energy,14,4399,168851
+2022,vietnam,AES Corporation,1,5,51
+2022,united_states,BP,19,1234,27446
+2022,united_states,EDF,4,222,5198
+2022,united_states,Enel,6,431,10287
+2022,united_states,Engie,2,85,2638
+2022,united_states,Equinor (formerly Statoil),3,144,2248
+2022,united_states,Holcim,8,456,8257
+2022,united_states,RWE,2,85,2638
+2022,united_states,Shell,7,515,13243
+2022,united_states,Siemens Energy,2,200,4120
+2022,united_states,TotalEnergies,2,85,2638
+2023,global,AES Corporation,2,13,115
+2023,vietnam,AES Corporation,1,24,360
+2020,global,AGL Australia,1,156,2101
+2020,australia,AGL Australia,12,1912,29204
+2022,australia,AGL Australia,17,1952,66371
+2022,global,AGL Australia,3,349,6213
+2023,australia,AGL Australia,1,156,1533
+2022,australia,Adbri (Adelaide Brighton),3,187,3046
+2022,global,Adbri (Adelaide Brighton),5,188,2816
+2022,global,Air France-KLM,10,1420,27808
+2022,eu,Air France-KLM,11,1445,46499
+2022,europe,Air France-KLM,3,403,4443
+2022,global,Airbus Group,20,8033,338261
+2022,global,BP,11,912,21660
+2021,global,Boeing,6,604,18335
+2022,global,Chevron,19,1421,21127
+2022,global,Rolls-Royce,5,6633,286797
+2022,global,Shell,19,3424,53954
+2022,global,TotalEnergies,8,1306,39018
+2022,global,United Airlines,6,575,11913
+2021,global,Airbus Group,17,5442,183242
+2021,global,United Airlines,16,4267,227927
+2022,netherlands,Air France-KLM,1,18,220
+2022,eu,Airbus Group,5,3558,68066
+2022,global,Air Liquide,17,3623,61944
+2022,united_states,Air Liquide,4,697,11766
+2022,eu,Air Liquide,6,415,7461
+2022,korea,Air Liquide,2,233,2643
+2022,eu,Anglo American,2,153,9236
+2022,eu,BMW Group,11,4103,68920
+2022,eu,Cummins,2,64,1498
+2022,eu,EDF,35,5723,196782
+2022,eu,Engie,9,543,11756
+2022,eu,Siemens Energy,12,1797,43363
+2022,eu,TotalEnergies,4,193,3289
+2022,eu,Uniper,6,837,14182
+2022,eu,Volvo Group,14,947,11225
+2022,europe,Air Liquide,1,49,413
+2022,france,Air Liquide,1,73,1057
+2023,eu,Air Liquide,3,365,3089
+2023,united_states,Air Liquide,1,21,122
+2022,united_kingdom,Airbus Group,1,40,638
+2022,global,Delta Air Lines,7,4480,63425
+2022,global,Boeing,18,1259,12801
+2022,africa,Airbus Group,1,88,589
+2022,global,American Airlines Group,4,6064,183028
+2022,eu,American Airlines Group,1,2183,51061
+2022,france,American Airlines Group,1,2183,51061
+2022,united_states,American Airlines Group,7,1045,11195
+2022,illinois,American Airlines Group,1,90,675
+2022,illinois,United Airlines,1,90,675
+2022,united_states,ArcelorMittal,3,328,3933
+2022,united_states,Daikin Industries,5,337,7565
+2022,united_states,Exelon,18,3472,45833
+2022,united_states,General Electric,8,767,12404
+2022,united_states,Trane Technologies (formerly Ingersoll-Rand),11,695,8404
+2023,united_states,American Airlines Group,1,225,1399
+2023,global,American Airlines Group,1,65,500
+2022,united_states,American Electric Power,21,6759,136991
+2022,united_states,ExxonMobil,15,1684,24382
+2022,united_states,FirstEnergy Corp,5,1033,11418
+2022,united_states,Marathon Petroleum,2,239,4401
+2022,west_virginia,American Electric Power,1,159,2302
+2022,west_virginia,FirstEnergy Corp,1,159,2302
+2022,global,Anglo American,18,1956,67618
+2022,australia,Anglo American,2,175,3367
+2022,south_africa,Anglo American,9,2179,27339
+2023,eu,Anglo American,1,135,1496
+2023,global,Anglo American,1,32,181
+2022,asia,Antam (Aneka Tambang),6,203,3472
+2022,global,Antam (Aneka Tambang),3,79,1478
+2021,global,ArcelorMittal,9,5866,155014
+2022,global,ArcelorMittal,13,6764,225963
+2021,eu,ArcelorMittal,17,3539,69245
+2022,eu,ArcelorMittal,10,3769,62608
+2022,united_states,Ford Motor,15,4981,83903
+2022,eu,Repsol,7,786,19469
+2022,eu,BASF,11,1623,26859
+2022,eu,Dow Inc,1,324,8487
+2022,eu,Holcim,4,1682,20586
+2022,eu,thyssenkrupp,10,1956,26214
+2022,eu,SSAB,9,2547,26569
+2022,spain,ArcelorMittal,2,176,1797
+2022,france,ArcelorMittal,1,134,1298
+2022,germany,ArcelorMittal,2,235,1988
+2022,global,thyssenkrupp,11,2557,41060
+2022,europe,ArcelorMittal,1,27,764
+2023,global,ArcelorMittal,1,195,3142
+2023,india,ArcelorMittal,1,110,775
+2021,eu,BASF,34,8332,166357
+2021,global,BASF,19,4306,200509
+2022,global,BASF,16,3677,50728
+2022,germany,BASF,6,818,7816
+2022,africa,BASF,2,212,1554
+2022,europe,BASF,2,201,1910
+2022,south_america,BASF,1,102,693
+2022,united_states,BASF,1,360,5870
+2023,germany,BASF,2,145,1109
+2023,south_america,BASF,1,133,1008
+2022,global,BHP,11,809,23751
+2022,australia,BHP,9,673,26686
+2022,united_states,BHP,1,182,1003
+2023,global,BHP,2,91,1413
+2023,united_states,BHP,1,25,425
+2022,united_states,BMW Group,2,3659,180024
+2022,california,BMW Group,2,151,2173
+2022,united_kingdom,BMW Group,1,59,703
+2022,global,BMW Group,3,302,3064
+2022,california,Honda Motor,3,223,3843
+2022,california,Volkswagen Group,1,64,511
+2023,mexico,BMW Group,1,186,1416
+2021,new_zealand,BP,1,299,5539
+2022,new_zealand,BP,1,299,5539
+2022,north_america,BP,4,155,2964
+2022,california,BP,3,88,1488
+2022,australia,BP,5,540,18882
+2022,eu,BP,6,216,4783
+2022,united_states,Danone,3,104,5017
+2022,united_states,Unilever,3,106,3015
+2022,india,BP,1,44,818
+2022,united_kingdom,BP,3,1802,36783
+2022,united_kingdom,Shell,4,2317,48148
+2022,europe,BP,2,108,1410
+2022,africa,BP,1,184,1786
+2022,global,Eni,9,965,24268
+2022,united_states,ConocoPhillips,6,761,17707
+2022,california,Equinor (formerly Statoil),1,60,913
+2023,australia,BP,1,76,3206
+2023,global,BP,5,1790,18539
+2023,michigan,BP,2,134,2187
+2021,germany,Bayer,1,22,600
+2021,china,Bayer,1,22,600
+2021,global,Bayer,22,4735,212674
+2021,united_states,Bayer,5,627,18254
+2022,global,Bayer,12,1602,39191
+2022,germany,Bayer,1,285,5576
+2022,eu,Bayer,3,671,12476
+2022,europe,Bayer,1,264,2227
+2022,united_states,Berkshire Hathaway,2,10674,136643
+2022,global,Bluescope Steel,2,238,3546
+2022,australia,Bluescope Steel,4,710,13023
+2023,australia,Bluescope Steel,1,78,1352
+2021,united_states,Boeing,7,1505,12904
+2022,united_states,Boeing,6,7692,77147
+2022,japan,Boeing,1,52,728
+2022,united_kingdom,Boeing,1,154,1573
+2022,united_kingdom,Rolls-Royce,4,558,5789
+2023,united_states,Boeing,2,757,5040
+2023,washington,Boeing,1,29,422
+2019,australia,Boral Limited,4,685,6254
+2022,australia,Boral Limited,2,117,3103
+2022,global,Boral Limited,4,162,3099
+2022,asia,Bumi Resources,2,34,603
+2022,global,Bumi Resources,1,41,745
+2022,global,CEZ,2,409,6801
+2022,eu,CEZ,2,42,542
+2022,global,CRH,7,618,41355
+2022,global,Canadian Natural Resources Ltd (CNRL),1,61,986
+2022,canada,Canadian Natural Resources Ltd (CNRL),11,1501,51418
+2022,canada,Imperial Oil Limited,9,993,33325
+2022,canada,ConocoPhillips,4,380,8697
+2022,canada,Suncor Energy,15,1997,37502
+2022,global,Caterpillar,2,1472,20917
+2023,united_states,Caterpillar,1,555,5772
+2022,eu,Cemex,6,1044,20701
+2022,global,Cemex,6,704,10325
+2022,global,Saint-Gobain,8,2488,44920
+2022,global,Iberdrola,8,912,15339
+2022,global,SSE,3,412,3227
+2022,eu,Saint-Gobain,5,756,20746
+2022,eu,Unilever,1,371,7953
+2022,eu,Iberdrola,18,1794,25669
+2022,united_kingdom,Cemex,2,158,1803
+2022,united_states,Cemex,1,90,1767
+2023,united_kingdom,Cemex,1,58,228
+2021,united_kingdom,Centrica,13,767,31970
+2021,global,Centrica,4,329,9909
+2022,united_kingdom,Centrica,7,352,5559
+2023,united_kingdom,Centrica,1,31,726
+2023,europe,Centrica,1,41,785
+2022,middle_east,Chevron,1,93,1112
+2022,california,Chevron,2,177,2256
+2022,north_america,Chevron,3,161,2255
+2022,united_states,Chevron,15,2228,36969
+2022,australia,Chevron,2,282,2395
+2022,canada,Chevron,2,200,2243
+2022,australia,ExxonMobil,7,616,10661
+2022,united_states,Devon Energy,3,276,5866
+2023,africa,Chevron,1,73,578
+2022,china,China Petroleum & Chemical Corporation (Sinopec),1,38,648
+2023,china,China Shenhua Energy,1,108,353
+2022,asia,Coal India,2,77,900
+2022,india,Coal India,5,904,8419
+2022,united_kingdom,Coca-Cola,2,478,8070
+2022,united_kingdom,Danone,1,284,6264
+2022,united_kingdom,E.ON,5,1104,31439
+2022,united_kingdom,EDF,7,1664,32914
+2022,united_kingdom,Nestlé,2,556,13368
+2022,united_kingdom,SSE,17,6115,197898
+2022,global,Coca-Cola,4,3863,68253
+2022,eu,Coca-Cola,1,33,233
+2022,united_states,Coca-Cola,1,131,2286
+2022,global,Colgate-Palmolive,4,1241,8935
+2022,global,ConocoPhillips,14,1143,29611
+2022,australia,ConocoPhillips,1,114,1112
+2022,north_america,ConocoPhillips,1,107,1042
+2021,united_states,Cummins,7,2811,67778
+2022,global,Cummins,8,2020,25184
+2023,united_states,Cummins,1,92,715
+2022,united_states,Kinder Morgan,9,1361,25042
+2022,united_states,WEC Energy Group Inc,11,3556,44158
+2022,united_states,United Airlines,5,803,6886
+2022,united_states,Walmart Stores,3,421,8155
+2022,california,Cummins,1,202,2032
+2022,united_states,General Motors,13,2107,76843
+2022,global,Daikin Industries,1,37,377
+2022,california,Daikin Industries,2,323,12053
+2022,eu,Daikin Industries,1,126,1671
+2022,global,Dangote Cement,2,89,2416
+2022,united_states,Nestlé,7,1227,13877
+2022,virginia,Danone,1,105,8272
+2022,eu,Danone,2,151,1438
+2023,global,Danone,3,192,2433
+2022,eu,Delta Air Lines,2,3776,53417
+2022,united_states,Delta Air Lines,11,7441,106620
+2022,france,Delta Air Lines,1,3742,53061
+2022,california,Delta Air Lines,2,1906,23830
+2023,united_states,Delta Air Lines,2,462,4353
+2023,netherlands,Delta Air Lines,1,118,1023
+2023,washington,Delta Air Lines,1,40,290
+2022,global,Devon Energy,1,104,937
+2022,virginia,Dominion Energy,1,56,1417
+2022,utah,Dominion Energy,1,83,828
+2022,global,Dow Inc,1,2449,35489
+2022,united_states,Dow Inc,3,283,4276
+2022,florida,Duke Energy,3,472,2392
+2022,united_states,TC Energy,5,2771,29804
+2022,north_carolina,Duke Energy,2,3859,29281
+2023,united_states,Duke Energy,2,95,897
+2023,global,Duke Energy,1,89,1696
+2022,eu,E.ON,14,1370,31616
+2022,global,E.ON,5,670,13900
+2022,germany,E.ON,3,191,1525
+2022,europe,E.ON,1,326,6509
+2022,europe,Siemens Energy,2,453,7663
+2022,europe,thyssenkrupp,4,556,8555
+2023,eu,E.ON,1,229,1177
+2023,united_kingdom,E.ON,1,54,522
+2021,eu,EDF,26,4385,97003
+2022,france,EDF,2,355,21704
+2022,italy,EDF,1,1450,25449
+2022,global,EDF,4,480,6583
+2023,eu,EDF,5,321,3969
+2023,africa,EDF,1,41,483
+2023,france,EDF,2,540,7276
+2022,japan,ENEOS Holdings (formerly JX Holdings Inc),3,4871,42712
+2022,global,Ecopetrol,4,300,5372
+2022,south_america,Ecopetrol,6,289,4420
+2022,global,Enbridge,9,458,7824
+2022,united_states,Enbridge,4,1923,28356
+2022,canada,Enbridge,7,1004,28157
+2022,new_york,Enbridge,1,185,1452
+2022,new_york,National Grid,11,3682,127329
+2022,north_america,Enbridge,2,38,694
+2023,canada,Enbridge,2,93,1276
+2022,eu,Enel,19,4978,350255
+2022,global,Enel,3,3304,138284
+2022,spain,Enel,1,70,366
+2022,italy,Enel,3,143,1689
+2022,california,Enel,1,25,1848
+2022,california,Panasonic,1,25,1848
+2022,california,Unilever,1,25,1848
+2022,texas,Enel,1,101,1466
+2023,global,Enel,3,237,5236
+2023,eu,Enel,2,82,493
+2023,spain,Enel,1,68,398
+2022,global,Engie,5,989,16174
+2022,france,Engie,2,227,2993
+2022,australia,Engie,1,35,1298
+2023,eu,Engie,2,108,1238
+2023,france,Engie,1,105,646
+2022,eu,Eni,5,707,8702
+2022,italy,Eni,3,386,7252
+2023,global,Eni,2,346,3911
+2023,africa,Eni,1,128,1221
+2022,global,Equinor (formerly Statoil),7,286,3489
+2022,new_york,Equinor (formerly Statoil),1,66,630
+2022,europe,Equinor (formerly Statoil),2,132,1976
+2022,eu,Equinor (formerly Statoil),3,150,3280
+2023,global,Equinor (formerly Statoil),2,201,2128
+2023,europe,Equinor (formerly Statoil),1,72,975
+2022,south_africa,Eskom Holdings Soc Limited,14,1736,33787
+2022,south_africa,Sasol,20,3041,45217
+2022,global,Eskom Holdings Soc Limited,1,25,313
+2022,pennsylvania,Exelon,2,442,5477
+2022,maryland,Exelon,11,585,14612
+2022,district_of_columbia,Exelon,1,207,2307
+2023,global,Exelon,1,13,637
+2022,global,ExxonMobil,30,3314,50284
+2022,united_kingdom,ExxonMobil,1,17,82
+2022,australia,Woodside,31,4447,49160
+2022,north_america,ExxonMobil,1,69,1484
+2023,global,ExxonMobil,1,295,5960
+2022,eu,Ford Motor,4,476,13994
+2022,global,Ford Motor,4,3705,172636
+2022,united_states,Stellantis,4,322,4524
+2022,united_states,Toyota Motor,6,1767,50024
+2022,california,Ford Motor,6,408,8840
+2022,australia,Ford Motor,1,79,2500
+2022,michigan,Ford Motor,1,63,812
+2022,california,General Motors,7,607,15761
+2022,united_kingdom,Ford Motor,1,28,462
+2022,united_kingdom,Nissan,2,64,2150
+2022,global,Volkswagen Group,6,4297,304449
+2022,eu,Volkswagen Group,11,4900,82641
+2022,europe,Ford Motor,1,900,6458
+2022,global,Fortum,3,105,1871
+2022,eu,Fortum,8,1233,31763
+2022,global,Foxconn,2,46,965
+2022,europe,Gazprom,1,67,620
+2022,global,General Electric,4,349,3311
+2022,asia,General Electric,1,74,688
+2022,eu,General Electric,1,71,1201
+2022,global,General Motors,1,627,10326
+2022,global,Glencore International,9,510,9291
+2022,australia,Glencore International,4,1049,31365
+2022,eu,Glencore International,1,272,12836
+2023,global,Glencore International,1,36,163
+2022,global,Grupo Argos,3,110,1666
+2022,south_america,Grupo Argos,2,192,1461
+2022,brazil,Grupo Argos,1,117,634
+2023,south_america,Grupo Argos,1,103,452
+2022,global,Grupo México,5,174,2195
+2022,mexico,Grupo México,1,63,1284
+2022,global,HeidelbergCement,4,552,27772
+2022,eu,HeidelbergCement,2,284,4784
+2022,united_states,HeidelbergCement,3,488,4799
+2023,europe,HeidelbergCement,1,156,1130
+2023,global,HeidelbergCement,1,71,670
+2022,global,Hitachi,1,44,1719
+2022,united_kingdom,Holcim,1,203,2917
+2022,europe,Holcim,1,203,2917
+2022,global,Holcim,6,959,12919
+2022,new_york,Holcim,1,46,561
+2022,india,Holcim,1,287,2192
+2023,eu,Holcim,1,98,863
+2022,united_kingdom,Honda Motor,1,57,1156
+2022,global,Honda Motor,1,136,736
+2022,india,Honda Motor,1,217,2011
+2022,india,Toyota Motor,2,425,3943
+2022,india,Suzuki,8,1265,12289
+2023,united_kingdom,Honda Motor,2,120,1064
+2023,global,Honda Motor,1,72,703
+2022,australia,Iberdrola,4,235,3990
+2022,united_states,Iberdrola,3,828,22832
+2022,spain,Iberdrola,1,110,1944
+2022,united_kingdom,Iberdrola,1,25,1440
+2023,eu,Iberdrola,4,230,5653
+2023,global,Iberdrola,3,197,5388
+2022,global,Imperial Oil Limited,9,277,5736
+2022,australia,Incitec Pivot,2,284,7850
+2022,global,Incitec Pivot,2,120,5349
+2022,australia,Origin Energy,21,2994,45753
+2022,global,International Paper Company,3,187,1732
+2021,north_america,Kinder Morgan,5,181,3041
+2022,global,Kinder Morgan,3,96,1581
+2022,california,Kinder Morgan,1,62,562
+2023,united_states,Kinder Morgan,1,968,11262
+2022,korea,Korea Electric Power Corporation (KEPCO),2,135,1285
+2022,global,Korea Electric Power Corporation (KEPCO),1,95,677
+2022,global,Lockheed Martin,2,2202,40265
+2022,united_states,Lockheed Martin,1,80,567
+2022,global,Lukoil,5,288,5058
+2022,europe,Lukoil,1,63,988
+2022,germany,LyondellBasell Industries,1,17,263
+2022,global,LyondellBasell Industries,3,281,11477
+2022,global,Marathon Petroleum,1,23,632
+2022,global,Martin Marietta Materials,1,80,1669
+2022,united_states,Martin Marietta Materials,1,93,624
+2022,california,Mercedes-Benz Group,3,521,16553
+2022,global,Mercedes-Benz Group,1,48,676
+2022,california,Stellantis,2,163,2771
+2022,united_states,Mercedes-Benz Group,1,127,2555
+2022,india,Mercedes-Benz Group,1,35,635
+2022,eu,Mercedes-Benz Group,1,96,684
+2023,united_kingdom,Mercedes-Benz Group,1,24,270
+2021,global,Moller Maersk (Maersk),22,4812,96216
+2022,global,Moller Maersk (Maersk),27,3989,90252
+2022,eu,Moller Maersk (Maersk),7,750,12947
+2022,spain,Moller Maersk (Maersk),1,75,894
+2022,united_states,Moller Maersk (Maersk),1,57,1640
+2022,europe,Moller Maersk (Maersk),1,42,830
+2023,eu,Moller Maersk (Maersk),2,139,685
+2022,new_jersey,NRG Energy,2,180,4005
+2022,new_york,NRG Energy,1,130,1460
+2022,maryland,NRG Energy,2,265,18981
+2022,california,NRG Energy,4,1057,15521
+2022,ohio,NRG Energy,2,39,419
+2022,texas,NRG Energy,2,457,4533
+2022,india,NTPC Ltd,4,333,2970
+2021,united_kingdom,National Grid,9,796,12397
+2022,global,National Grid,8,715,19887
+2022,united_kingdom,National Grid,5,386,4948
+2022,massachusetts,National Grid,5,295,6674
+2022,eu,National Grid,1,136,6838
+2022,california,National Grid,1,998,7339
+2022,rhode_island,National Grid,1,61,1144
+2023,new_york,National Grid,2,178,2914
+2023,massachusetts,National Grid,1,146,1548
+2022,global,Naturgy (Gas Natural Fenosa),1,22,1166
+2022,eu,Naturgy (Gas Natural Fenosa),5,300,2670
+2023,eu,Naturgy (Gas Natural Fenosa),2,152,3147
+2021,united_states,Nestlé,6,1240,22136
+2022,south_africa,Nestlé,1,62,1122
+2022,south_america,Nestlé,1,62,1122
+2022,global,Nestlé,10,1515,14123
+2022,global,Walmart Stores,3,1850,26156
+2022,maryland,Walmart Stores,1,37,877
+2022,eu,Nestlé,6,514,3307
+2022,europe,Nestlé,1,98,1733
+2023,global,Nestlé,1,368,2883
+2022,florida,NextEra Energy,2,3002,37885
+2023,united_states,NextEra Energy,2,227,7100
+2022,japan,Nippon Steel Corporation,2,209,1526
+2022,global,Nippon Steel Corporation,1,55,535
+2022,global,Nissan,1,2845,149288
+2022,california,Nissan,1,32,878
+2022,europe,Nissan,1,122,1034
+2023,united_states,Nissan,1,145,1365
+2022,global,Nornickel (MMC Norilsk Nickel),3,286,3358
+2022,global,OMV,7,310,6475
+2022,europe,OMV,2,116,2172
+2022,global,Occidental Petroleum,9,1751,19112
+2022,united_states,Occidental Petroleum,4,364,6905
+2022,north_america,Occidental Petroleum,2,289,1852
+2022,india,Oil and Natural Gas Corporation (ONGC),6,615,7041
+2023,india,Oil and Natural Gas Corporation (ONGC),1,96,1021
+2022,global,Orica,3,100,1870
+2022,australia,Orica,3,124,2346
+2023,australia,Orica,3,394,6231
+2022,global,Origin Energy,5,1749,48016
+2022,eu,Origin Energy,1,54,901
+2022,australia,Santos,21,2908,37175
+2022,asia,Origin Energy,1,146,868
+2023,australia,Origin Energy,1,135,1344
+2022,united_states,PACCAR,4,1769,17806
+2022,united_states,Volkswagen Group,5,794,16888
+2022,united_states,Volvo Group,6,511,10620
+2022,united_kingdom,PACCAR,1,23,92
+2022,colorado,PACCAR,1,114,1858
+2022,colorado,Volkswagen Group,2,191,2867
+2022,colorado,Volvo Group,1,114,1858
+2022,europe,PGE (Polska Grupa Energetyczna),1,106,1475
+2022,global,PGE (Polska Grupa Energetyczna),1,121,3012
+2022,eu,PGE (Polska Grupa Energetyczna),28,3454,32872
+2022,poland,PGE (Polska Grupa Energetyczna),5,481,4236
+2023,eu,PGE (Polska Grupa Energetyczna),2,96,486
+2022,global,POSCO,3,478,6306
+2022,korea,POSCO,1,4386,53766
+2022,pennsylvania,PPL Corporation,1,327,3349
+2022,rhode_island,PPL Corporation,1,169,3621
+2021,global,PTT Global Chemicals,11,920,13383
+2022,global,PTT Global Chemicals,7,676,15345
+2022,asia,PTT Global Chemicals,1,31,274
+2022,thailand,PTT Global Chemicals,1,31,479
+2022,global,Panasonic,5,558,11486
+2022,vietnam,Panasonic,1,96,940
+2022,eu,Panasonic,1,122,1444
+2022,china,Panasonic,1,78,674
+2023,japan,Panasonic,1,50,481
+2022,global,Pemex (Petróleos Mexicanos),2,87,3705
+2022,mexico,Pemex (Petróleos Mexicanos),5,302,7269
+2023,global,Pemex (Petróleos Mexicanos),2,139,2070
+2022,united_states,Pemex (Petróleos Mexicanos),1,38,534
+2023,mexico,Pemex (Petróleos Mexicanos),1,71,493
+2019,global,PepsiCo,5,262,6827
+2022,global,PepsiCo,4,379,3334
+2021,united_states,PepsiCo,4,850,10742
+2022,united_states,PepsiCo,1,437,3031
+2022,china,PetroChina Company Limited,2,263,475
+2022,global,Petrobras,6,1074,17001
+2022,brazil,Petrobras,1,67,810
+2022,south_america,Petrobras,1,22,322
+2022,global,Philips,5,695,11411
+2023,global,Philips,2,67,2451
+2022,global,Phillips 66,1,1957,51142
+2022,europe,Phillips 66,1,102,956
+2022,united_states,Phillips 66,2,440,3791
+2022,global,Power Assets Holdings Limited,2,51,1563
+2022,global,Procter & Gamble,1,59,1322
+2022,global,Qantas Airways,3,842,31778
+2022,australia,Qantas Airways,3,768,9172
+2021,eu,RWE,10,1155,21908
+2022,global,RWE,4,257,4230
+2022,eu,RWE,9,755,8713
+2022,united_kingdom,RWE,2,104,1000
+2022,germany,RWE,3,320,4364
+2022,california,RWE,1,81,1543
+2022,netherlands,RWE,1,72,934
+2023,germany,RWE,1,46,514
+2023,eu,RWE,3,193,2566
+2022,global,Raytheon Technologies Corporation (formerly United Technologies),4,3417,112867
+2022,united_states,Raytheon Technologies Corporation (formerly United Technologies),1,2664,70508
+2022,global,Reliance Industries Limited,2,290,7191
+2021,eu,Renault,3,2595,19531
+2022,eu,Renault,5,2653,40371
+2022,global,Renault,2,87,3470
+2022,india,Renault,1,45,324
+2022,global,Repsol,7,672,11010
+2023,europe,Repsol,1,117,830
+2022,global,Rio Tinto Group,20,1422,26069
+2022,canada,Rio Tinto Group,1,45,841
+2022,africa,Rio Tinto Group,1,168,3221
+2022,australia,Rio Tinto Group,9,697,15581
+2022,china,Rio Tinto Group,1,72,861
+2023,global,Rio Tinto Group,4,369,5685
+2023,australia,Rio Tinto Group,2,213,5146
+2022,europe,Rolls-Royce,1,90,909
+2022,eu,Rolls-Royce,1,111,907
+2023,global,Rolls-Royce,1,29,293
+2022,global,SSAB,13,805,14788
+2022,united_states,SSAB,1,251,1671
+2022,europe,SSAB,1,1342,10398
+2023,europe,SSAB,1,56,670
+2023,eu,SSAB,2,137,3690
+2022,eu,SSE,3,4348,64748
+2023,united_kingdom,SSE,4,244,2375
+2022,germany,Saint-Gobain,1,1396,14451
+2022,asia,Saint-Gobain,1,124,1246
+2022,united_states,Saint-Gobain,1,51,617
+2022,france,Saint-Gobain,4,1024,11168
+2022,europe,Saint-Gobain,1,169,2362
+2022,united_kingdom,Saint-Gobain,1,42,193
+2022,california,Saint-Gobain,1,296,3223
+2023,global,Saint-Gobain,1,266,1609
+2023,france,Saint-Gobain,2,95,1099
+2022,global,Santos,5,571,8488
+2022,asia,Santos,1,47,351
+2023,australia,Santos,5,283,4645
+2023,global,Santos,1,20,318
+2022,global,Sasol,12,1226,15948
+2022,eu,Sasol,1,77,968
+2023,south_africa,Sasol,1,58,663
+2021,middle_east,Saudi Aramco,6,615,5421
+2022,global,Saudi Aramco,5,573,7272
+2022,middle_east,Saudi Aramco,2,341,2823
+2022,australia,Saudi Aramco,1,101,2703
+2022,global,Severstal,2,129,1720
+2022,germany,Severstal,1,96,838
+2022,eu,Shell,5,316,18156
+2021,eu,Shell,21,4806,75880
+2022,australia,Shell,6,980,16767
+2022,india,Shell,3,322,6049
+2022,nigeria,Shell,1,155,858
+2022,nigeria,TotalEnergies,2,381,1822
+2022,europe,Shell,1,138,1239
+2022,canada,Shell,1,1522,17508
+2023,global,Shell,4,230,2675
+2023,united_states,Shell,1,302,13990
+2023,australia,Shell,1,37,706
+2022,global,Siemens Energy,18,4753,216163
+2022,france,Siemens Energy,1,21,83
+2022,australia,Siemens Energy,1,94,1515
+2023,global,Siemens Energy,4,127,1821
+2023,united_states,Siemens Energy,1,75,1624
+2020,global,South32,5,228,3476
+2022,global,South32,14,666,15717
+2022,south_africa,South32,1,39,791
+2022,australia,South32,5,226,4490
+2023,australia,South32,1,29,553
+2022,illinois,Southern Company,1,36,310
+2023,united_states,Southern Company,2,58,736
+2022,united_kingdom,Stellantis,1,72,600
+2022,eu,Stellantis,3,148,2779
+2022,global,Stellantis,2,244,1982
+2023,global,Stellantis,1,234,2014
+2022,global,Suncor Energy,8,620,5080
+2022,north_america,Suncor Energy,1,160,5988
+2023,canada,Suncor Energy,1,199,3470
+2022,global,Suzano (formerly Fibria Celulose),4,518,3416
+2022,brazil,Suzano (formerly Fibria Celulose),4,2135,19106
+2022,eu,Suzuki,1,76,951
+2022,global,TC Energy,7,372,8956
+2022,north_america,TC Energy,4,246,4887
+2022,canada,TC Energy,5,1993,64723
+2022,canada,Teck Resources Limited,5,388,7453
+2022,global,Teck Resources Limited,11,723,9987
+2022,global,Toray Industries Inc.,5,432,5990
+2022,asia,Toray Industries Inc.,1,35,350
+2022,australia,TotalEnergies,1,137,1730
+2022,france,TotalEnergies,1,41,700
+2022,europe,TotalEnergies,1,40,468
+2023,eu,TotalEnergies,1,78,1278
+2023,global,TotalEnergies,3,280,3113
+2022,japan,Toyota Motor,3,2097,39266
+2022,california,Toyota Motor,4,256,3872
+2022,australia,Toyota Motor,3,657,10532
+2022,global,Toyota Motor,3,1654,71676
+2022,eu,Toyota Motor,1,1225,10935
+2022,united_kingdom,Toyota Motor,2,109,1521
+2022,southeast_asia,Toyota Motor,1,217,3929
+2023,global,Toyota Motor,3,547,7656
+2023,united_states,Toyota Motor,1,97,1470
+2023,australia,Toyota Motor,1,80,767
+2023,canada,Toyota Motor,2,129,2343
+2022,global,Trane Technologies (formerly Ingersoll-Rand),4,1315,26119
+2022,europe,Trane Technologies (formerly Ingersoll-Rand),1,844,10698
+2022,global,UltraTech Cement,2,161,2737
+2022,india,UltraTech Cement,3,230,6285
+2023,global,UltraTech Cement,1,90,751
+2023,india,UltraTech Cement,1,141,1661
+2022,global,Unilever,10,1003,16821
+2022,north_carolina,Unilever,1,31,1464
+2023,global,Unilever,3,502,4650
+2022,global,Uniper,3,92,1805
+2022,united_kingdom,Uniper,5,1133,20699
+2022,germany,United Airlines,1,132,1465
+2023,global,United Airlines,4,3499,329231
+2023,united_states,United Airlines,4,3528,141577
+2023,eu,United Airlines,1,2556,62802
+2022,asia,United Tractors,1,40,375
+2021,global,Vale,9,618,8959
+2022,global,Vale,6,879,16158
+2022,south_america,Vale,1,66,712
+2023,global,Vale,2,839,8263
+2022,global,Valero Energy,1,4176,22857
+2022,united_states,Valero Energy,9,1567,15798
+2022,california,Valero Energy,2,223,4502
+2023,united_states,Valero Energy,1,256,5349
+2022,global,Vedanta Resources,8,479,7159
+2022,asia,Vedanta Resources,5,322,7305
+2022,eu,Vedanta Resources,1,59,519
+2022,india,Vedanta Resources,1,46,771
+2021,europe,Volkswagen Group,1,112,1296
+2022,europe,Volkswagen Group,2,1555,11520
+2022,australia,Volkswagen Group,1,540,9944
+2022,germany,Volkswagen Group,2,2411,16610
+2023,spain,Volkswagen Group,2,67,795
+2023,eu,Volkswagen Group,3,232,3879
+2022,global,Volvo Group,14,6939,150087
+2022,europe,Volvo Group,1,59,863
+2022,united_kingdom,Volvo Group,1,55,1710
+2022,california,Volvo Group,1,100,2469
+2022,new_jersey,Volvo Group,1,189,1454
+2023,global,Volvo Group,5,4702,166055
+2023,france,Volvo Group,1,31,922
+2023,eu,Volvo Group,6,373,4139
+2023,united_states,Volvo Group,2,77,1620
+2023,australia,Volvo Group,1,217,3543
+2022,wisconsin,WEC Energy Group Inc,1,34,757
+2022,michigan,WEC Energy Group Inc,1,34,757
+2022,illinois,WEC Energy Group Inc,1,92,832
+2023,illinois,WEC Energy Group Inc,1,103,1346
+2023,wisconsin,WEC Energy Group Inc,1,70,855
+2022,north_carolina,Walmart Stores,1,221,1972
+2021,north_america,Weyerhaeuser Company,2,142,1907
+2022,north_america,Weyerhaeuser Company,2,149,2197
+2022,united_states,Weyerhaeuser Company,3,492,8084
+2022,global,Woodside,2,183,1619
+2023,global,Woodside,2,123,3076
+2023,australia,Woodside,9,1648,31622
+2022,australia,Woolworths Ltd,1,307,9164
+2022,global,Woolworths Ltd,1,39,213
+2023,australia,Woolworths Ltd,1,68,1182
+2022,colorado,XCEL Energy,1,109,2481
+2022,minnesota,XCEL Energy,2,426,4539
+2023,minnesota,XCEL Energy,2,89,1473
+2023,colorado,XCEL Energy,2,175,2219
+2022,germany,thyssenkrupp,5,435,3735
+2022,united_states,thyssenkrupp,1,94,1691
+2023,eu,thyssenkrupp,1,197,906
+2023,global,thyssenkrupp,1,180,1500
+2017,united_kingdom,Uniper,5,798,36605
+2017,eu,Uniper,3,488,8204
+2021,united_states,WEC Energy Group Inc,9,7964,139195
+2021,united_states,Air Liquide,9,1131,12583
+2019,united_kingdom,Centrica,2,909,13638
+2019,eu,Centrica,5,364,7635
+2018,australia,Woolworths Ltd,4,6949,157424
+2017,united_states,NextEra Energy,1,300,7388
+2017,eu,Air Liquide,1,700,3534
+2017,global,Air Liquide,11,7577,133782
+2014,eu,BASF,15,3591,58023
+2021,global,Suncor Energy,7,386,4582
+2019,global,General Electric,7,1048,18956
+2016,global,Equinor (formerly Statoil),9,3811,67747
+2017,eu,CEZ,11,1131,36509
+2021,australia,Bluescope Steel,5,5173,129644
+2020,australia,Incitec Pivot,12,823,14762
+2021,germany,E.ON,3,218,3577
+2018,global,TotalEnergies,6,279,4624
+2014,global,TotalEnergies,2,1438,60862
+2014,eu,TotalEnergies,5,12147,108050
+2015,global,TotalEnergies,13,2943,37670
+2020,global,Glencore International,10,835,39678
+2021,global,Bluescope Steel,6,5857,229808
+2018,global,PTT Global Chemicals,2,125,1797
+2021,global,ExxonMobil,17,1448,16069
+2020,eu,EDF,24,5650,184100
+2014,united_kingdom,EDF,2,659,7198
+2020,united_states,Dominion Energy,10,1081,18567
+2017,united_states,General Motors,6,394,7149
+2018,united_states,Southern Company,8,4870,49453
+2021,united_states,General Motors,17,7865,172828
+2018,united_states,ExxonMobil,17,1082,9552
+2013,united_kingdom,Nissan,1,43,508
+2015,global,Anglo American,6,869,12152
+2015,global,BHP,25,7641,219661
+2015,global,Glencore International,14,1969,21206
+2015,global,Rio Tinto Group,12,4298,137932
+2015,global,South32,2,2548,33426
+2021,united_states,Chevron,10,3318,35766
+2020,eu,Enel,19,2431,44300
+2015,united_states,Dow Inc,3,167,2223
+2015,eu,Iberdrola,5,456,6610
+2019,united_states,Exelon,19,9542,185743
+2020,global,Rio Tinto Group,10,1358,23462
+2014,eu,E.ON,10,1533,50442
+2021,germany,BASF,16,3911,42090
+2019,eu,Holcim,3,968,17189
+2014,united_states,Chevron,10,3361,40618
+2014,global,Chevron,3,2581,38699
+2013,eu,ArcelorMittal,1,95,1410
+2017,global,Glencore International,8,6285,168060
+2020,eu,Engie,24,4269,71840
+2021,france,Air France-KLM,2,121,2428
+2014,japan,Nippon Steel Corporation,1,71,1170
+2021,united_states,Duke Energy,20,4864,82903
+2018,global,Canadian Natural Resources Ltd (CNRL),3,238,11122
+2018,australia,Bluescope Steel,14,1460,22787
+2021,australia,Woodside,13,709,19120
+2021,eu,BMW Group,13,2050,53765
+2021,global,Chevron,14,1277,23608
+2020,india,Coal India,3,512,3817
+2021,global,American Airlines Group,1,137,696
+2020,global,Siemens Energy,9,711,8513
+2021,united_states,Vistra Corp,17,5772,183285
+2015,global,Chevron,13,8598,135314
+2014,global,Dow Inc,2,380,19722
+2015,global,Dow Inc,6,608,18579
+2015,eu,Equinor (formerly Statoil),2,362,2510
+2018,australia,Santos,9,1422,29473
+2020,eu,PepsiCo,5,1284,33337
+2016,united_states,Duke Energy,20,5265,75251
+2021,europe,Air Liquide,2,231,1990
+2021,united_states,AES Corporation,15,3542,100666
+2016,eu,SSE,5,3816,67110
+2020,florida,Duke Energy,1,43,938
+2020,united_states,BASF,2,2059,28194
+2020,united_states,Coca-Cola,2,1936,27096
+2020,united_states,Danone,5,2153,35797
+2020,united_states,Dow Inc,2,1971,28914
+2020,united_states,EDF,1,1916,25884
+2020,united_states,Holcim,6,2304,37606
+2020,united_states,National Grid,1,1916,25884
+2020,united_states,Nestlé,6,2210,36623
+2020,united_states,PepsiCo,3,1997,30812
+2020,united_states,Saint-Gobain,1,1916,25884
+2020,united_states,Trane Technologies (formerly Ingersoll-Rand),4,2032,31088
+2020,united_states,Unilever,7,2583,40441
+2020,united_states,Walmart Stores,2,1965,28278
+2017,united_states,Dow Inc,11,3671,35137
+2021,united_states,ExxonMobil,24,2048,35395
+2021,germany,thyssenkrupp,10,1337,14234
+2015,global,Shell,31,5981,75348
+2020,united_states,Occidental Petroleum,4,493,5897
+2021,eu,Air France-KLM,14,2561,51705
+2020,global,PTT Global Chemicals,6,430,7151
+2013,global,ExxonMobil,2,537,5475
+2017,eu,Enel,13,1069,16764
+2016,united_states,Exelon,5,10623,640610
+2015,global,ArcelorMittal,4,4907,68838
+2019,global,Holcim,2,225,4754
+2021,eu,Airbus Group,11,3093,54631
+2021,global,AES Corporation,2,1443,147820
+2018,united_states,NRG Energy,6,2571,32011
+2021,eu,Air Liquide,11,3125,72917
+2019,global,UltraTech Cement,2,213,1235
+2021,global,BP,25,2757,37518
+2014,united_states,Dominion Energy,3,1764,188428
+2020,eu,Coca-Cola,3,931,39549
+2020,eu,E.ON,14,1464,34412
+2020,eu,RWE,13,1496,63970
+2020,eu,Unilever,11,1845,25891
+2020,eu,Iberdrola,22,2559,74786
+2020,united_states,Airbus Group,1,85,1822
+2015,eu,Renault,2,220,1561
+2017,north_america,Kinder Morgan,2,39,876
+2016,global,Chevron,6,661,7173
+2021,india,Vedanta Resources,13,984,9029
+2020,australia,Repsol,1,40,336
+2013,united_kingdom,Centrica,3,5222,71936
+2013,united_kingdom,E.ON,2,3380,49730
+2013,united_kingdom,EDF,2,2999,47748
+2018,global,ArcelorMittal,5,7598,165030
+2015,global,ExxonMobil,31,7145,113398
+2021,united_states,HeidelbergCement,5,2016,15393
+2020,global,RWE,7,614,4962
+2014,eu,Equinor (formerly Statoil),6,4968,112725
+2014,global,Equinor (formerly Statoil),11,2186,75001
+2016,eu,SSAB,5,592,9657
+2021,australia,Engie,3,853,11593
+2021,united_states,Marathon Petroleum,4,3180,35549
+2021,global,Marathon Petroleum,1,41,817
+2018,europe,Gazprom,4,3739,53235
+2019,germany,RWE,3,266,2850
+2019,australia,Santos,13,1221,15067
+2021,global,TotalEnergies,18,2293,44434
+2020,new_jersey,Exelon,5,1127,29827
+2021,eu,TotalEnergies,10,2224,43365
+2021,global,Teck Resources Limited,10,407,6975
+2021,australia,AGL Australia,15,2560,77834
+2017,united_states,BP,3,243,3389
+2018,united_states,Chevron,8,888,10525
+2021,new_zealand,Toyota Motor,3,1420,72411
+2020,global,United Airlines,5,4575,247178
+2015,global,E.ON,11,757,12914
+2021,australia,Santos,17,986,20279
+2020,australia,BP,3,950,26445
+2018,global,Boeing,1,1105,24856
+2018,global,ExxonMobil,6,2147,16689
+2020,eu,Airbus Group,7,1049,32547
+2021,eu,Iberdrola,28,4090,73986
+2015,eu,EDF,14,3843,211415
+2017,europe,Equinor (formerly Statoil),2,249,2081
+2017,united_states,Equinor (formerly Statoil),3,483,3876
+2015,global,BP,25,12502,143364
+2021,global,UltraTech Cement,10,833,11558
+2019,global,HeidelbergCement,1,4329,70611
+2012,north_america,Enbridge,3,629,5312
+2014,canada,BP,1,180,3059
+2021,global,Siemens Energy,24,1599,22776
+2019,australia,AGL Australia,8,1057,22111
+2018,united_states,AES Corporation,9,3247,51712
+2021,delaware,Exelon,4,998,14110
+2021,global,Rio Tinto Group,13,1931,74455
+2021,united_states,Occidental Petroleum,10,1690,23187
+2020,global,TotalEnergies,15,926,20084
+2021,united_kingdom,SSE,13,1534,24010
+2021,canada,Enbridge,12,1814,34662
+2021,global,Air Liquide,29,3578,41106
+2021,global,Santos,1,26,471
+2015,australia,Woodside,2,235,3120
+2017,united_states,Procter & Gamble,2,119,1976
+2015,north_america,TC Energy,10,1737,14515
+2019,australia,Woodside,18,2164,82357
+2021,eu,ExxonMobil,5,252,4027
+2020,germany,thyssenkrupp,4,560,7119
+2021,canada,Canadian Natural Resources Ltd (CNRL),7,744,18062
+2016,united_kingdom,Centrica,4,643,17232
+2018,africa,Sasol,6,3540,71451
+2018,global,Sasol,2,235,3919
+2021,australia,Rio Tinto Group,3,148,2047
+2020,global,ExxonMobil,19,2539,37102
+2017,global,BHP,7,1126,16858
+2017,united_states,BHP,1,39,652
+2016,united_states,ExxonMobil,11,1232,16179
+2020,global,Renault,3,330,5264
+2016,global,Glencore International,7,1583,27632
+2017,eu,Fortum,4,311,3894
+2018,eu,Eni,2,303,3850
+2018,eu,Equinor (formerly Statoil),2,98,3982
+2018,eu,Shell,10,1629,14479
+2018,eu,TotalEnergies,2,46,1381
+2018,eu,Naturgy (Gas Natural Fenosa),3,284,4135
+2019,global,South32,3,189,2521
+2021,united_states,NextEra Energy,17,5008,74364
+2017,global,Teck Resources Limited,4,3657,53189
+2011,united_kingdom,BP,1,22,498
+2017,united_states,Chevron,7,4052,47093
+2015,united_kingdom,RWE,1,206,13338
+2016,global,Moller Maersk (Maersk),2,111,2067
+2019,united_states,Dow Inc,5,282,6530
+2015,eu,RWE,12,3790,44191
+2015,global,Unilever,14,1884,33893
+2020,united_states,Procter & Gamble,3,707,15721
+2021,eu,Fortum,15,4054,81021
+2019,united_states,ArcelorMittal,2,96,1505
+2017,global,Imperial Oil Limited,4,297,4681
+2018,global,Imperial Oil Limited,6,8058,179602
+2020,eu,Shell,21,2294,90979
+2016,united_states,Dominion Energy,19,14824,614240
+2015,united_states,NextEra Energy,4,742,8130
+2020,united_kingdom,Centrica,4,430,17441
+2020,united_kingdom,Coca-Cola,1,133,4972
+2020,united_kingdom,E.ON,6,730,19095
+2020,united_kingdom,Engie,4,541,13461
+2020,united_kingdom,Iberdrola,2,257,7145
+2020,united_kingdom,National Grid,8,628,12171
+2020,united_kingdom,Nestlé,1,133,4972
+2020,united_kingdom,SSE,11,1137,18210
+2020,united_kingdom,Unilever,2,372,9218
+2010,united_kingdom,National Grid,1,97,958
+2012,united_kingdom,Valero Energy,1,98,1892
+2021,global,South32,4,122,2781
+2021,united_states,Exelon,44,5148,75408
+2020,global,Danone,6,2884,51038
+2020,eu,ExxonMobil,3,166,1619
+2020,germany,RWE,4,421,3914
+2019,united_states,ExxonMobil,13,994,10834
+2018,global,Nippon Steel Corporation,1,101,1681
+2020,eu,Bayer,8,532,8562
+2020,france,Saint-Gobain,6,1055,19171
+2018,united_states,Dominion Energy,5,1192,30921
+2015,united_states,XCEL Energy,6,942,21121
+2021,united_states,Berkshire Hathaway,4,639,5977
+2020,global,General Electric,15,6174,138257
+2020,global,CRH,7,610,13001
+2021,global,Hitachi,6,664,11339
+2015,global,Equinor (formerly Statoil),12,1336,22930
+2015,global,Ford Motor,5,710,6552
+2015,united_kingdom,Centrica,3,3569,115152
+2020,global,Volkswagen Group,6,8545,65963
+2015,global,EDF,9,1044,27111
+2019,north_america,TC Energy,7,484,9318
+2018,australia,Origin Energy,11,6174,135661
+2021,united_states,Devon Energy,5,356,3326
+2015,eu,National Grid,3,330,2427
+2019,united_states,Marathon Petroleum,3,298,9902
+2020,united_states,BP,9,1252,14789
+2020,global,Holcim,19,1574,31209
+2020,eu,Repsol,9,691,11859
+2020,eu,Anglo American,2,99,868
+2020,north_america,TC Energy,10,879,11183
+2021,united_states,BP,11,1502,22344
+2021,global,Imperial Oil Limited,4,3290,116026
+2020,south_america,Ecopetrol,6,343,2829
+2014,global,Raytheon Technologies Corporation (formerly United Technologies),2,273,9566
+2012,eu,Equinor (formerly Statoil),1,365,2800
+2020,australia,Unilever,3,151,2727
+2021,global,United Tractors,1,193,1262
+2014,global,Coca-Cola,4,397,8129
+2018,africa,Eskom Holdings Soc Limited,3,143,3341
+2020,europe,Uniper,2,51,558
+2019,africa,Glencore International,1,41,748
+2016,india,Coal India,4,400,5183
+2021,global,SSAB,6,453,7393
+2020,united_kingdom,EDF,8,520,13505
+2018,global,Chevron,8,2359,30076
+2018,global,Occidental Petroleum,2,101,1100
+2018,united_states,Occidental Petroleum,4,505,10176
+2020,eu,ArcelorMittal,22,2207,42424
+2020,eu,thyssenkrupp,11,1476,33246
+2016,global,Eni,6,721,7136
+2021,global,Iberdrola,16,2277,53171
+2021,global,ConocoPhillips,4,118,3553
+2016,global,BHP,8,4532,139162
+2014,global,Vale,1,3372,39292
+2015,global,Vale,3,5545,144040
+2017,global,General Electric,4,2212,35931
+2017,united_states,General Electric,8,3021,19189
+2020,australia,Origin Energy,11,501,9322
+2020,global,Airbus Group,9,4306,144298
+2020,australia,Woodside,11,787,16399
+2017,global,Orica,1,17,327
+2015,global,Suncor Energy,8,3707,77770
+2015,canada,Suncor Energy,9,3620,44349
+2020,eu,Boeing,6,1333,30738
+2020,eu,Rolls-Royce,2,4471,73314
+2020,eu,TotalEnergies,11,1003,26579
+2021,eu,Saint-Gobain,6,1297,25080
+2020,global,Bayer,15,1540,24505
+2017,global,Incitec Pivot,1,51,566
+2016,united_states,Delta Air Lines,1,103,978
+2016,united_states,Valero Energy,5,569,9444
+2019,global,Air Liquide,4,679,7565
+2021,california,Air Liquide,1,1344,11460
+2017,united_states,Devon Energy,3,1475,22735
+2016,global,Walmart Stores,3,650,6141
+2021,eu,Enel,30,5874,184333
+2011,united_kingdom,Cemex,2,2430,44093
+2014,australia,AGL Australia,3,540,11557
+2019,global,ExxonMobil,13,709,16544
+2021,united_states,NRG Energy,23,5167,63101
+2015,global,SSAB,2,398,2532
+2017,global,Procter & Gamble,2,172,1085
+2021,united_kingdom,Equinor (formerly Statoil),1,42,229
+2019,global,Rolls-Royce,7,3825,61712
+2017,united_states,Martin Marietta Materials,2,75,2135
+2021,global,BHP,14,2325,129986
+2021,india,Coal India,9,2811,18150
+2013,global,ConocoPhillips,2,659,6586
+2021,global,Daikin Industries,6,6428,93306
+2020,eu,Uniper,24,2611,50295
+2020,united_kingdom,Uniper,4,315,7317
+2017,global,Honda Motor,7,6389,52938
+2019,global,ArcelorMittal,7,677,16105
+2021,eu,HeidelbergCement,5,1926,41747
+2020,united_states,NRG Energy,13,2217,26290
+2020,florida,NextEra Energy,5,1242,14592
+2020,maryland,Exelon,2,161,2452
+2019,united_states,XCEL Energy,8,2259,64143
+2021,eu,Eni,9,1524,31358
+2015,australia,Origin Energy,24,2703,42375
+2021,australia,Shell,2,1365,24528
+2020,global,Anglo American,12,835,13766
+2021,united_states,XCEL Energy,19,1509,25912
+2021,united_states,Siemens Energy,4,258,3028
+2021,australia,Nissan,2,259,3184
+2019,united_states,Valero Energy,7,3443,42587
+2020,california,Suzuki,1,159,1015
+2019,new_jersey,Exelon,4,911,28818
+2018,global,BP,9,559,5547
+2020,global,Colgate-Palmolive,4,611,9558
+2020,global,Enbridge,2,52,1000
+2020,canada,Enbridge,2,139,1705
+2017,europe,Hitachi,1,68,629
+2017,australia,AGL Australia,24,2365,47306
+2014,global,BHP,7,3416,80713
+2017,australia,BHP,8,1846,64837
+2018,united_states,General Motors,14,1508,27321
+2011,global,Petrobras,1,87,693
+2014,global,EDF,7,2262,66095
+2017,united_states,American Electric Power,6,770,9353
+2014,eu,Suncor Energy,3,446,5672
+2021,eu,OMV,6,454,5775
+2016,eu,Eni,3,373,5217
+2020,eu,Saint-Gobain,14,3162,90935
+2021,united_kingdom,EDF,5,245,1897
+2014,united_states,Southern Company,10,4751,152910
+2020,global,Unilever,23,4215,70677
+2017,global,Dow Inc,4,435,8656
+2017,global,Unilever,4,3438,29614
+2018,canada,Suncor Energy,6,365,3346
+2019,united_states,General Motors,7,662,8110
+2017,eu,Naturgy (Gas Natural Fenosa),5,515,9881
+2015,eu,Centrica,1,2155,88390
+2015,europe,Centrica,1,2155,44195
+2020,eu,Ford Motor,2,226,5981
+2020,eu,PACCAR,1,72,7176
+2020,eu,Volvo Group,6,1207,21286
+2020,global,Volvo Group,4,501,4542
+2020,global,Ford Motor,1,72,1196
+2020,eu,Volkswagen Group,9,795,10605
+2020,germany,BMW Group,3,174,2188
+2020,germany,Volkswagen Group,4,340,5731
+2020,europe,BASF,2,76,569
+2021,north_america,Enbridge,8,2281,21201
+2020,germany,HeidelbergCement,1,55,506
+2016,global,Anglo American,1,17,302
+2021,united_kingdom,E.ON,4,351,3604
+2021,africa,Eskom Holdings Soc Limited,8,745,8441
+2021,global,Unilever,27,18532,379910
+2016,global,POSCO,2,41,1573
+2021,rhode_island,National Grid,3,118,2329
+2017,global,Coca-Cola,2,105,1578
+2018,canada,Canadian Natural Resources Ltd (CNRL),3,216,2924
+2021,europe,HeidelbergCement,1,69,684
+2016,global,Boeing,3,371,3321
+2021,united_states,American Airlines Group,7,241,10075
+2021,united_states,American Electric Power,19,6860,170204
+2021,united_states,BASF,5,1003,21329
+2021,united_states,BHP,5,1342,26468
+2021,united_states,Danone,6,633,20625
+2021,united_states,Dominion Energy,29,5922,115561
+2021,united_states,Dow Inc,6,729,14906
+2021,united_states,National Grid,7,716,23837
+2021,united_states,Shell,14,2229,60816
+2021,united_states,Southern Company,23,8192,151961
+2021,united_states,Trane Technologies (formerly Ingersoll-Rand),4,495,17681
+2021,united_states,Unilever,12,1058,36061
+2021,united_states,Holcim,5,508,9490
+2015,europe,Nissan,1,89,801
+2020,global,BP,35,3259,41829
+2021,global,Vedanta Resources,6,644,16966
+2015,eu,Shell,11,1863,36216
+2018,australia,Woodside,8,1087,36525
+2021,eu,Equinor (formerly Statoil),5,291,3995
+2020,eu,CRH,2,125,2347
+2018,united_states,American Electric Power,6,2507,45662
+2014,canada,Suncor Energy,3,498,49849
+2014,global,Suncor Energy,9,6673,141508
+2015,global,BASF,6,4097,92765
+2020,global,Phillips 66,4,106,1562
+2021,eu,Naturgy (Gas Natural Fenosa),11,2657,49112
+2018,eu,Engie,5,375,11524
+2015,australia,BHP,4,482,9467
+2018,united_states,XCEL Energy,3,2694,34671
+2020,united_states,Ford Motor,5,1537,15093
+2014,global,Unilever,5,365,3937
+2014,eu,CEZ,5,626,12537
+2014,eu,Fortum,6,633,13986
+2014,eu,Iberdrola,5,1054,16726
+2014,eu,RWE,6,1008,24552
+2013,australia,Anglo American,1,183,3778
+2019,global,Repsol,4,233,5386
+2015,australia,AGL Australia,13,1798,24363
+2021,global,Anglo American,16,3227,81442
+2018,eu,Fortum,10,941,44213
+2018,global,Fortum,2,138,1062
+2019,global,Naturgy (Gas Natural Fenosa),8,290,3142
+2019,united_states,Toyota Motor,5,1052,28889
+2020,eu,BASF,17,1843,62585
+2019,eu,E.ON,4,122,1823
+2016,global,ExxonMobil,10,9685,140252
+2018,global,Equinor (formerly Statoil),5,6723,67731
+2020,australia,Bluescope Steel,2,108,2077
+2016,asia,Rosneft,1,695,14194
+2018,global,Repsol,5,2759,42664
+2016,global,ConocoPhillips,9,2050,30013
+2016,united_states,ConocoPhillips,3,450,8373
+2020,australia,Santos,25,1456,22482
+2014,eu,Raytheon Technologies Corporation (formerly United Technologies),2,40,1327
+2021,global,Saint-Gobain,13,3620,67964
+2017,germany,E.ON,1,65,410
+2020,eu,Air France-KLM,7,1848,44190
+2015,germany,RWE,9,1891,42916
+2018,canada,ConocoPhillips,1,98,1080
+2021,new_zealand,BMW Group,2,389,11170
+2020,global,HeidelbergCement,10,994,26895
+2021,eu,Uniper,15,2326,35842
+2016,canada,Imperial Oil Limited,1,20,411
+2021,mexico,Pemex (Petróleos Mexicanos),8,3484,69434
+2018,global,Santos,2,74,395
+2020,global,Naturgy (Gas Natural Fenosa),13,619,4846
+2021,global,Enel,11,2183,70124
+2016,global,Vedanta Resources,1,3284,47631
+2021,united_states,Coca-Cola,5,1050,25389
+2021,poland,PGE (Polska Grupa Energetyczna),5,351,3590
+2020,united_states,ConocoPhillips,19,1963,30803
+2018,australia,AGL Australia,11,1808,132932
+2021,united_states,E.ON,2,87,8190
+2021,united_states,TotalEnergies,4,170,4334
+2015,japan,Toray Industries Inc.,1,63,598
+2017,eu,Saint-Gobain,6,151,3366
+2021,california,Volvo Group,2,312,10780
+2019,united_kingdom,SSE,13,825,24951
+2021,united_states,PPL Corporation,10,4181,197220
+2021,california,Dominion Energy,1,262,3127
+2021,canada,Teck Resources Limited,2,196,3109
+2020,eu,SSAB,9,798,20822
+2020,eu,LyondellBasell Industries,2,413,4162
+2021,global,Naturgy (Gas Natural Fenosa),5,294,2892
+2020,eu,BP,6,554,26913
+2019,united_states,American Electric Power,10,3213,30680
+2019,australia,BP,2,160,8955
+2019,united_kingdom,EDF,4,214,6172
+2019,united_kingdom,Unilever,1,143,3942
+2019,united_kingdom,Shell,2,237,4590
+2019,united_kingdom,Engie,1,143,2628
+2019,united_kingdom,Nestlé,1,143,2628
+2021,australia,Qantas Airways,2,252,2743
+2018,united_states,Boeing,1,41,811
+2018,france,Air Liquide,1,48,568
+2018,global,Moller Maersk (Maersk),8,3833,104491
+2015,global,OMV,1,356,2274
+2015,global,Moller Maersk (Maersk),6,496,6273
+2015,united_kingdom,SSE,5,371,8810
+2011,australia,Woodside,1,26,519
+2015,eu,Eni,3,396,14497
+2020,eu,Equinor (formerly Statoil),11,514,29264
+2017,global,Anglo American,6,7580,74374
+2014,united_states,Duke Energy,11,4800,192175
+2018,global,Woodside,12,1000,20219
+2020,global,BHP,10,1514,40942
+2018,germany,RWE,7,4041,61582
+2016,eu,CEZ,7,3615,121647
+2013,united_states,Bayer,1,417,3464
+2021,united_states,FirstEnergy Corp,14,3219,50171
+2018,eu,Enel,7,1029,15734
+2015,global,RWE,3,140,3838
+2021,new_jersey,Volkswagen Group,2,94,2212
+2021,south_america,Ecopetrol,11,1000,15624
+2021,global,Danone,21,3033,67831
+2021,new_york,Danone,1,90,1366
+2017,canada,Suncor Energy,2,467,7046
+2019,global,TotalEnergies,14,904,15688
+2020,eu,PGE (Polska Grupa Energetyczna),15,2008,29659
+2021,eu,Volvo Group,5,410,10988
+2018,global,Panasonic,6,1055,12251
+2021,global,PepsiCo,4,858,29520
+2015,north_america,Enbridge,6,1155,11083
+2016,eu,Fortum,17,1433,58930
+2015,united_states,Southern Company,6,1393,23278
+2021,global,Honda Motor,4,4374,47793
+2021,united_states,Nissan,4,861,9382
+2021,united_states,Volkswagen Group,2,671,7434
+2015,global,Renault,13,2966,38595
+2021,global,Petrobras,2,128,4045
+2020,global,Nissan,5,695,5914
+2017,india,Vedanta Resources,5,528,5197
+2019,district_of_columbia,Exelon,1,135,1159
+2020,california,General Motors,5,3061,44143
+2020,illinois,Exelon,2,627,13066
+2015,united_states,Nestlé,4,1135,81415
+2018,mexico,Pemex (Petróleos Mexicanos),14,3921,98412
+2020,united_states,Vistra Corp,10,2310,49226
+2017,australia,ConocoPhillips,2,114,2105
+2017,europe,Philips,1,333,2872
+2017,eu,Philips,5,491,6113
+2017,north_america,TC Energy,2,121,2049
+2014,global,General Electric,4,3082,56666
+2020,eu,Moller Maersk (Maersk),7,507,13194
+2015,united_states,Duke Energy,11,3047,25883
+2020,europe,TotalEnergies,1,53,299
+2018,eu,CRH,1,96,1876
+2013,united_states,General Electric,1,474,3747
+2016,eu,National Grid,1,119,1068
+2015,global,Valero Energy,4,3106,43285
+2021,new_zealand,Suzuki,1,522,21054
+2021,global,International Paper Company,7,363,4172
+2016,global,Engie,11,2528,60627
+2020,united_kingdom,BP,7,437,8524
+2016,australia,Origin Energy,3,430,34644
+2019,united_states,Shell,11,1019,23167
+2020,global,SSAB,5,367,4196
+2019,global,Eni,2,1069,54146
+2015,united_states,Berkshire Hathaway,4,1592,52585
+2021,illinois,Vistra Corp,6,1125,13806
+2020,eu,Air Liquide,4,576,8845
+2020,global,Chevron,7,1647,24565
+2020,germany,E.ON,1,28,1032
+2016,global,Shell,13,1359,17305
+2020,united_states,TotalEnergies,3,149,2199
+2017,united_states,Marathon Petroleum,6,2510,76788
+2017,india,Coal India,4,1120,10305
+2020,eu,CEZ,13,1375,43297
+2019,global,General Motors,1,85,2022
+2019,united_states,NextEra Energy,4,458,4067
+2017,global,SSE,2,117,971
+2016,global,CRH,5,9437,103027
+2021,global,Panasonic,5,3136,35033
+2021,australia,Korea Electric Power Corporation (KEPCO),1,92,967
+2018,canada,Teck Resources Limited,1,82,1659
+2016,global,TotalEnergies,9,2551,38244
+2020,eu,Fortum,20,3845,121693
+2020,global,Fortum,6,740,10916
+2021,global,Rosneft,3,887,7618
+2016,united_kingdom,Engie,1,122,4566
+2019,global,Walmart Stores,4,150,3274
+2020,global,China Petroleum & Chemical Corporation (Sinopec),1,125,1143
+2014,global,Rio Tinto Group,5,1192,16862
+2020,new_zealand,Rio Tinto Group,2,181,9088
+2018,eu,HeidelbergCement,2,4524,73241
+2017,global,Airbus Group,1,87,1485
+2014,eu,EDF,7,1308,27994
+2020,spain,Naturgy (Gas Natural Fenosa),1,53,312
+2016,global,Airbus Group,3,204,2033
+2021,global,SSE,7,1391,30381
+2021,australia,Iberdrola,1,188,2953
+2015,global,Iberdrola,10,1782,29698
+2020,global,Bumi Resources,1,35,528
+2012,global,Lukoil,1,2862,40521
+2020,united_states,General Motors,11,3850,50323
+2014,united_states,EDF,1,50,1770
+2014,united_states,Honda Motor,4,3779,34924
+2014,united_states,Iberdrola,1,50,2655
+2021,australia,Incitec Pivot,4,291,4267
+2016,eu,Enel,11,9809,219621
+2016,eu,RWE,5,3966,62426
+2016,eu,Engie,10,1542,29612
+2021,south_america,AES Corporation,4,464,4456
+2021,united_states,General Electric,10,1393,23914
+2015,global,Sasol,2,488,6125
+2016,australia,AGL Australia,7,1196,36313
+2021,eu,CEZ,10,1535,27721
+2018,global,PepsiCo,2,57,1038
+2013,global,Nippon Steel Corporation,1,1911,19011
+2020,global,Woodside,11,473,7852
+2021,global,Sasol,6,479,7516
+2015,canada,TotalEnergies,2,323,3076
+2020,europe,Severstal,2,4173,92323
+2019,united_states,Vistra Corp,3,1959,20087
+2021,global,Ford Motor,5,4304,166329
+2021,eu,Siemens Energy,9,968,51040
+2019,global,Saudi Aramco,6,410,5172
+2019,global,Saint-Gobain,2,139,1380
+2016,united_kingdom,E.ON,3,386,5185
+2021,eu,Volkswagen Group,15,9980,150334
+2019,california,ExxonMobil,1,89,497
+2020,canada,Canadian Natural Resources Ltd (CNRL),3,194,2989
+2018,australia,Glencore International,3,1898,40988
+2018,china,China Shenhua Energy,1,62,546
+2020,global,Nornickel (MMC Norilsk Nickel),4,161,1071
+2017,eu,BASF,5,1335,20302
+2019,global,Rio Tinto Group,8,1944,53519
+2021,global,OMV,5,184,2970
+2018,united_states,NextEra Energy,3,2777,53902
+2021,global,Volvo Group,7,713,6729
+2019,united_kingdom,National Grid,3,146,2960
+2020,global,Duke Energy,1,134,1443
+2016,canada,Suncor Energy,4,535,18756
+2020,united_states,Siemens Energy,1,135,1102
+2021,europe,Gazprom,14,1440,15173
+2018,united_states,Walmart Stores,1,110,1240
+2019,africa,Eskom Holdings Soc Limited,4,227,5549
+2020,united_states,NextEra Energy,5,796,8466
+2021,global,Mercedes-Benz Group,1,2640,37869
+2014,united_states,Dow Inc,1,207,3421
+2019,australia,Bluescope Steel,4,402,5318
+2019,california,Ford Motor,4,374,4377
+2017,united_kingdom,Rolls-Royce,3,915,12187
+2017,global,Rolls-Royce,2,1060,6904
+2021,global,Power Assets Holdings Limited,3,214,4603
+2021,asia,ExxonMobil,2,77,1649
+2019,global,BP,15,1150,12648
+2020,eu,Holcim,17,2537,52141
+2020,france,Engie,10,1141,19543
+2017,united_states,Exelon,1,1855,16776
+2017,united_states,Volvo Group,2,243,3053
+2015,united_states,Valero Energy,3,162,2087
+2014,eu,ArcelorMittal,5,630,7416
+2013,global,Valero Energy,3,6387,102535
+2016,united_states,XCEL Energy,9,44493,341101
+2020,global,Vistra Corp,2,1403,11877
+2014,global,BP,2,3136,48614
+2021,united_kingdom,Honda Motor,1,471,32725
+2017,australia,Adbri (Adelaide Brighton),1,380,2790
+2020,california,Toyota Motor,1,31,571
+2021,global,Saudi Aramco,8,755,8314
+2016,global,Honda Motor,2,7865,197436
+2020,africa,Sasol,6,852,10664
+2020,global,Sasol,2,348,3525
+2018,global,International Paper Company,2,29,147
+2018,global,Iberdrola,5,737,41369
+2019,california,General Motors,1,123,2153
+2016,germany,RWE,4,589,4779
+2020,europe,Unilever,1,35,341
+2014,eu,Air Liquide,3,226,4935
+2020,europe,Gazprom,8,800,18203
+2014,global,Hitachi,4,4295,88570
+2020,india,Vedanta Resources,10,480,8536
+2020,global,Vedanta Resources,7,864,8057
+2014,eu,Volkswagen Group,6,4148,51328
+2020,eu,Siemens Energy,8,686,20868
+2020,united_kingdom,Toyota Motor,1,457,4911
+2020,africa,TotalEnergies,1,60,332
+2020,global,Bluescope Steel,2,82,1645
+2016,illinois,Exelon,7,602,9048
+2018,global,Suncor Energy,7,680,5483
+2015,spain,Enel,3,341,3824
+2018,japan,Panasonic,3,296,4030
+2015,united_states,ExxonMobil,10,4416,57082
+2019,mexico,Pemex (Petróleos Mexicanos),9,1370,29919
+2018,global,Philips,3,2590,34800
+2021,south_africa,Sasol,7,791,12222
+2021,eu,Sasol,2,275,10739
+2020,united_states,ExxonMobil,12,716,11860
+2019,global,Anglo American,7,2393,40957
+2020,australia,Orica,3,461,7089
+2018,oceania,Rio Tinto Group,6,225,6459
+2015,illinois,Exelon,2,192,5068
+2021,united_states,Centrica,2,149,10890
+2021,united_states,thyssenkrupp,1,22,1371
+2018,canada,CRH,3,103,1740
+2021,north_america,TC Energy,20,1636,13295
+2020,global,Shell,20,2575,55465
+2015,global,Phillips 66,3,332,4056
+2020,spain,Repsol,4,492,8739
+2018,global,Rosneft,2,475,12316
+2018,europe,Rosneft,2,257,10525
+2016,global,Lukoil,1,5120,67288
+2012,eu,TotalEnergies,1,340,2700
+2015,global,Bayer,5,454,5245
+2018,global,BMW Group,4,4358,41946
+2013,united_states,LyondellBasell Industries,2,342,2511
+2020,united_states,Duke Energy,15,3222,129244
+2016,eu,Volvo Group,3,764,5214
+2021,united_states,Delta Air Lines,8,1058,20199
+2013,eu,Fortum,3,490,34797
+2015,united_states,American Electric Power,12,877,12322
+2021,global,HeidelbergCement,5,625,46956
+2017,global,Vale,4,14019,181363
+2019,global,Qantas Airways,2,270,2276
+2020,global,OMV,7,459,4839
+2017,global,CEZ,1,22,1146
+2019,south_america,Ecopetrol,5,489,3106
+2017,united_states,Southern Company,4,2434,41293
+2018,global,Bumi Resources,1,222,1157
+2021,global,TC Energy,7,257,3168
+2017,china,Rio Tinto Group,1,176,4052
+2021,eu,Centrica,1,225,4101
+2020,global,E.ON,5,308,11955
+2020,eu,Gazprom,5,518,14246
+2016,eu,Shell,5,535,23637
+2019,global,NRG Energy,3,5874,81825
+2016,eu,EDF,10,2581,49939
+2019,global,Equinor (formerly Statoil),4,408,6808
+2015,eu,CEZ,9,1292,16878
+2015,eu,E.ON,10,912,11165
+2015,eu,Fortum,6,639,16377
+2017,global,Engie,6,544,5699
+2016,united_kingdom,SSE,10,4364,133546
+2021,eu,Engie,19,4539,69146
+2015,eu,BP,3,628,38658
+2019,eu,Equinor (formerly Statoil),3,200,10740
+2021,japan,Suzuki,1,12,465
+2014,north_america,TC Energy,2,198,2449
+2021,global,EDF,5,703,14015
+2012,global,ExxonMobil,1,44,1274
+2018,global,Vale,2,184,2120
+2018,south_america,Vale,2,188,2264
+2020,europe,Repsol,2,244,3774
+2012,united_kingdom,Centrica,1,57,1806
+2020,asia,Anglo American,1,48,516
+2020,africa,Eskom Holdings Soc Limited,2,106,2053
+2014,eu,Coca-Cola,4,390,5617
+2015,united_states,Coca-Cola,4,1862,47085
+2015,united_states,General Motors,5,1699,47414
+2015,united_states,PepsiCo,4,1596,47603
+2015,united_states,Walmart Stores,3,1284,64456
+2017,global,RWE,1,973,16348
+2021,canada,Suncor Energy,9,1979,26417
+2021,global,Glencore International,18,1361,28450
+2021,pennsylvania,Exelon,4,663,12109
+2016,united_states,American Electric Power,15,4583,86113
+2018,united_states,Vistra Corp,4,7021,63934
+2020,global,thyssenkrupp,5,606,6171
+2021,united_kingdom,BMW Group,1,177,11604
+2020,global,Air Liquide,8,1956,55350
+2021,global,Walmart Stores,3,2876,37624
+2021,india,Oil and Natural Gas Corporation (ONGC),5,255,1765
+2018,china,CNOOC,1,4746,19915
+2017,global,Philips,3,705,5834
+2021,canada,TC Energy,6,580,10469
+2018,global,Glencore International,3,1229,9003
+2021,global,General Electric,4,290,5458
+2019,global,CRH,2,225,3346
+2018,global,Danone,5,3985,89755
+2014,global,Occidental Petroleum,1,3095,39767
+2021,global,Raytheon Technologies Corporation (formerly United Technologies),2,2103,53375
+2015,united_states,Cemex,1,79,511
+2015,global,Cemex,7,4162,85795
+2020,global,Teck Resources Limited,3,297,3373
+2020,global,AES Corporation,3,606,12912
+2016,global,thyssenkrupp,1,42,430
+2016,united_kingdom,Shell,2,139,5004
+2021,australia,Origin Energy,16,3227,36168
+2015,global,Eni,9,670,7662
+2020,eu,Eni,14,1328,26916
+2017,eu,Eni,3,2612,61177
+2017,eu,Shell,3,140,2915
+2021,united_states,Ford Motor,10,1810,30889
+2014,united_states,General Electric,4,3391,89317
+2020,global,Engie,13,1022,11675
+2019,global,Centrica,7,337,5155
+2018,europe,BASF,1,43,435
+2018,global,BASF,3,257,5213
+2017,united_states,ExxonMobil,10,5191,56134
+2020,united_states,Exelon,16,3006,48899
+2017,global,General Motors,4,235,2242
+2018,north_america,ArcelorMittal,1,63,897
+2016,eu,Air Liquide,3,2840,42170
+2018,australia,Dow Inc,2,327,4472
+2015,global,thyssenkrupp,1,54,740
+2021,global,Holcim,11,1429,29240
+2015,eu,ExxonMobil,4,516,6800
+2014,europe,General Motors,1,669,8281
+2020,global,Eni,7,4024,268270
+2021,eu,PGE (Polska Grupa Energetyczna),21,4106,75567
+2016,australia,Korea Electric Power Corporation (KEPCO),2,149,1469
+2020,global,Vale,2,76,1369
+2021,united_states,United Airlines,15,2112,29429
+2018,global,E.ON,4,411,11540
+2018,united_states,TotalEnergies,2,63,911
+2014,global,Nestlé,3,923,35268
+2019,united_states,Chevron,4,190,3244
+2013,united_states,XCEL Energy,1,141,1955
+2017,united_states,Dominion Energy,5,414,5775
+2018,global,OMV,5,3360,32346
+2019,global,Lukoil,5,5303,70441
+2021,global,Lukoil,6,5727,144909
+2018,global,Bluescope Steel,4,480,9607
+2021,illinois,Exelon,6,599,6168
+2018,global,Nestlé,3,654,9201
+2020,united_kingdom,Shell,4,1067,95337
+2019,eu,SSAB,7,1913,31224
+2019,europe,SSAB,1,59,839
+2017,united_kingdom,SSE,1,19,413
+2018,global,Air France-KLM,2,1407,20403
+2015,australia,Chevron,1,170,833
+2020,global,Trane Technologies (formerly Ingersoll-Rand),2,87,505
+2017,australia,Bluescope Steel,6,689,9783
+2019,global,Glencore International,5,3409,184306
+2021,south_africa,Anglo American,3,2101,29619
+2018,south_america,Ecopetrol,2,59,1484
+2015,eu,Enel,9,1139,20049
+2019,korea,Korea Electric Power Corporation (KEPCO),3,220,2335
+2014,united_states,American Electric Power,4,2558,79974
+2020,europe,Moller Maersk (Maersk),1,106,1116
+2019,south_america,AES Corporation,1,27,587
+2019,global,AES Corporation,4,1006,8521
+2021,global,Fortum,3,349,6716
+2015,eu,TotalEnergies,3,473,33217
+2015,eu,Engie,4,435,20733
+2020,mexico,Pemex (Petróleos Mexicanos),7,698,20152
+2018,global,BHP,3,246,3063
+2018,global,Rio Tinto Group,3,323,6952
+2019,india,AES Corporation,1,784,5938
+2018,global,Holcim,3,425,8830
+2014,united_states,BP,1,640,6320
+2014,united_states,ExxonMobil,1,640,6320
+2014,united_states,Occidental Petroleum,2,861,8443
+2014,united_states,Phillips 66,1,640,6320
+2014,united_states,Boeing,1,640,6320
+2019,canada,Teck Resources Limited,1,110,3192
+2021,eu,Repsol,10,1133,35389
+2019,united_states,NRG Energy,6,596,19292
+2019,global,BASF,7,1711,44055
+2019,united_states,Dominion Energy,10,872,13716
+2019,global,Ford Motor,3,179,3055
+2019,global,Shell,13,1379,31405
+2019,united_states,Holcim,3,247,4300
+2019,united_states,Unilever,3,258,4939
+2019,global,Unilever,5,408,4423
+2014,united_states,Raytheon Technologies Corporation (formerly United Technologies),2,84,2072
+2019,global,Raytheon Technologies Corporation (formerly United Technologies),2,297,2685
+2015,global,Nestlé,7,800,21589
+2021,south_africa,ArcelorMittal,1,53,1874
+2020,europe,Air France-KLM,1,100,1328
+2020,europe,Shell,1,100,1328
+2017,united_states,Volkswagen Group,1,52,963
+2018,india,Toyota Motor,3,382,3553
+2018,united_states,United Airlines,1,149,1354
+2016,united_kingdom,ExxonMobil,1,86,1384
+2011,united_states,Volkswagen Group,3,653,5327
+2014,united_states,XCEL Energy,5,2187,72199
+2013,global,Nestlé,2,172,3477
+2019,pennsylvania,Exelon,2,211,1742
+2014,eu,SSE,5,542,10643
+2020,global,Moller Maersk (Maersk),6,2039,28364
+2021,global,General Motors,2,2618,38169
+2021,california,General Motors,2,2705,37449
+2015,north_america,Cummins,2,69,1450
+2015,global,Philips,3,258,10810
+2015,global,Enel,16,1871,33758
+2015,global,Holcim,9,2018,48660
+2015,global,Engie,4,433,5330
+2015,global,Teck Resources Limited,2,181,9216
+2019,global,Iberdrola,6,614,9951
+2016,global,ArcelorMittal,2,2544,62175
+2020,global,PepsiCo,1,105,833
+2017,eu,BMW Group,2,144,994
+2020,global,BMW Group,7,1397,24053
+2018,middle_east,Saudi Aramco,2,353,4051
+2015,united_states,General Electric,3,1429,92540
+2020,united_states,Southern Company,6,438,7650
+2015,global,Walmart Stores,3,538,7455
+2016,united_states,Nissan,2,744,8915
+2016,united_states,NRG Energy,4,385,7882
+2017,united_kingdom,EDF,3,332,5043
+2020,spain,Iberdrola,6,331,3455
+2020,united_states,TC Energy,2,83,1093
+2015,united_states,Exelon,13,6166,102194
+2015,united_states,SSAB,2,181,1380
+2021,europe,BASF,13,1891,23814
+2016,united_states,Southern Company,15,11753,195980
+2017,japan,Toyota Motor,3,272,3910
+2021,france,TotalEnergies,2,109,2260
+2017,global,Walmart Stores,6,5957,72209
+2018,united_states,Ford Motor,5,943,25232
+2018,united_states,Honda Motor,4,854,31462
+2014,eu,Shell,6,237,14497
+2020,united_states,XCEL Energy,12,2829,30475
+2015,eu,HeidelbergCement,2,234,9617
+2017,global,Rio Tinto Group,4,3612,148973
+2016,global,Panasonic,1,1423,15021
+2011,united_states,Valero Energy,1,167,9519
+2020,united_kingdom,BMW Group,1,179,9564
+2017,canada,Imperial Oil Limited,1,66,624
+2021,eu,Holcim,7,2330,27284
+2014,eu,Nestlé,1,359,13144
+2014,united_states,Nestlé,5,799,11175
+2015,global,Canadian Natural Resources Ltd (CNRL),8,1046,13405
+2016,united_states,Volkswagen Group,2,298,3830
+2020,europe,Rosneft,2,233,2786
+2021,global,Volkswagen Group,7,9032,74019
+2020,global,United Tractors,1,3414,61284
+2019,global,Chevron,5,812,13279
+2019,china,ExxonMobil,1,81,1048
+2018,united_states,BP,8,717,10365
+2017,eu,Iberdrola,8,940,8662
+2017,eu,SSE,1,50,573
+2021,eu,Moller Maersk (Maersk),7,971,14418
+2020,global,BASF,15,2694,33961
+2019,australia,Glencore International,2,70,1286
+2021,global,Cemex,11,923,12920
+2020,australia,BHP,3,1599,16905
+2020,global,Rolls-Royce,8,687,11269
+2019,united_states,BP,8,792,12863
+2021,global,National Grid,7,739,10773
+2021,eu,SSAB,10,3830,72310
+2019,global,Airbus Group,6,856,9394
+2020,europe,Naturgy (Gas Natural Fenosa),1,39,188
+2020,global,Petrobras,6,1518,47129
+2020,global,ArcelorMittal,9,870,17102
+2021,united_kingdom,Stellantis,3,336,10230
+2017,united_states,Duke Energy,8,2188,57883
+2018,united_states,Duke Energy,9,4386,80726
+2021,global,Nestlé,9,4805,85157
+2021,korea,POSCO,6,6839,166687
+2021,global,POSCO,3,6365,107120
+2019,eu,BASF,5,5413,65705
+2020,texas,Occidental Petroleum,1,113,984
+2019,global,Severstal,1,160,3972
+2019,europe,Severstal,1,160,1986
+2015,canada,Chevron,1,57,442
+2017,global,Saudi Aramco,4,100,981
+2017,poland,PGE (Polska Grupa Energetyczna),3,182,2629
+2018,eu,PGE (Polska Grupa Energetyczna),2,1040,20697
+2020,japan,Nippon Steel Corporation,1,41,1071
+2015,global,Procter & Gamble,3,1067,20608
+2018,australia,BHP,5,947,25243
+2020,europe,Holcim,1,719,20534
+2020,illinois,NRG Energy,3,2785,39116
+2020,united_states,Honda Motor,1,2748,17157
+2017,eu,TotalEnergies,4,298,7689
+2021,eu,PepsiCo,2,100,2056
+2015,global,Martin Marietta Materials,1,12,282
+2015,global,Fortum,6,256,10410
+2014,eu,Holcim,2,355,4905
+2012,eu,BMW Group,1,124,1058
+2021,india,Reliance Industries Limited,3,623,10580
+2015,global,Grupo Argos,2,5515,77910
+2015,global,Hitachi,2,208,2394
+2016,global,HeidelbergCement,5,5852,69038
+2015,global,CRH,2,2801,72606
+2019,united_states,Delta Air Lines,1,241,1283
+2018,united_states,Shell,7,1080,21836
+2018,global,Shell,15,7454,85641
+2020,eu,OMV,6,438,11068
+2020,australia,South32,3,376,6306
+2019,eu,OMV,3,177,7098
+2021,united_states,Bunge Limited,1,1513,18524
+2021,global,Bunge Limited,6,3027,75728
+2019,global,Devon Energy,1,1690,18119
+2021,canada,Imperial Oil Limited,5,695,27215
+2014,australia,Rio Tinto Group,6,1121,26845
+2018,united_states,Toyota Motor,3,1293,31819
+2018,california,Toyota Motor,2,812,13018
+2018,california,Shell,3,236,3230
+2021,japan,ENEOS Holdings (formerly JX Holdings Inc),6,5842,45283
+2016,global,Nissan,5,1799,19223
+2021,global,Shell,11,2016,80467
+2017,global,Fortum,3,762,6806
+2017,global,Hitachi,2,9586,236117
+2020,united_states,Shell,4,1194,18542
+2019,eu,Shell,6,700,16091
+2016,united_states,Honda Motor,3,3095,22033
+2014,global,Canadian Natural Resources Ltd (CNRL),1,74,1611
+2017,united_states,E.ON,1,683,7044
+2020,spain,Enel,3,200,1117
+2019,eu,Rolls-Royce,1,30,611
+2021,united_kingdom,Holcim,1,45,1151
+2019,united_states,General Electric,2,277,6234
+2012,canada,Imperial Oil Limited,1,44,597
+2016,north_america,Suncor Energy,2,384,4675
+2012,global,General Motors,1,203,2706
+2018,global,Ford Motor,1,115,1402
+2018,china,General Motors,1,34,1434
+2018,california,General Motors,6,834,14638
+2015,global,Raytheon Technologies Corporation (formerly United Technologies),5,5068,156097
+2014,africa,General Electric,1,90,1108
+2021,netherlands,RWE,2,159,1919
+2018,united_states,Phillips 66,2,267,2113
+2020,eu,SSE,8,1159,31378
+2021,california,Toyota Motor,1,130,3525
+2018,europe,Lukoil,1,1478,11544
+2015,united_states,Chevron,10,1409,23467
+2013,global,Cemex,2,225,2235
+2016,africa,Anglo American,1,69,784
+2017,australia,Santos,5,492,15353
+2015,eu,ConocoPhillips,1,67,932
+2011,global,ConocoPhillips,2,212,2644
+2013,australia,Origin Energy,1,50,1150
+2015,united_states,Shell,3,2647,37260
+2018,eu,OMV,1,120,9696
+2016,united_states,Walmart Stores,2,293,3860
+2019,california,Volkswagen Group,3,393,4307
+2021,eu,BP,8,1248,23777
+2019,united_states,Devon Energy,2,73,470
+2021,australia,ExxonMobil,1,35,865
+2019,united_states,BASF,3,217,4537
+2020,global,Walmart Stores,2,1556,17844
+2013,australia,Rio Tinto Group,2,136,2955
+2021,global,Suzano (formerly Fibria Celulose),9,377,11922
+2019,netherlands,Uniper,1,113,867
+2021,maryland,Exelon,8,927,12485
+2020,united_states,WEC Energy Group Inc,2,211,2942
+2019,africa,Sasol,4,307,7711
+2018,district_of_columbia,Exelon,1,188,4635
+2018,global,AES Corporation,2,803,80799
+2017,canada,Teck Resources Limited,2,3195,49321
+2020,australia,Adbri (Adelaide Brighton),2,118,2529
+2016,australia,BMW Group,1,329,11120
+2017,australia,Woodside,5,156,3213
+2014,united_states,Unilever,1,252,3036
+2019,eu,EDF,2,321,5028
+2017,global,TotalEnergies,5,375,4207
+2018,united_states,Equinor (formerly Statoil),3,504,4941
+2020,global,Repsol,13,607,14584
+2021,global,CRH,2,166,3314
+2021,eu,CRH,1,105,2004
+2014,global,Eni,2,170,8282
+2018,india,Vedanta Resources,3,160,1104
+2018,netherlands,RWE,3,3521,110613
+2016,eu,Honda Motor,1,474,6348
+2021,eu,Cemex,4,405,33323
+2021,eu,Trane Technologies (formerly Ingersoll-Rand),4,303,27072
+2020,global,Nestlé,4,537,10480
+2017,global,Shell,10,7598,497773
+2017,united_states,Walmart Stores,7,3192,29192
+2017,global,National Grid,1,24,450
+2016,united_states,Ford Motor,6,3109,47044
+2018,global,Anglo American,2,96,1164
+2013,global,UltraTech Cement,1,56,1237
+2018,thailand,PTT Global Chemicals,3,161,3691
+2016,united_states,General Motors,5,428,10797
+2020,united_kingdom,Honda Motor,2,647,28767
+2016,eu,Renault,3,2012,43800
+2018,global,Duke Energy,2,1963,21035
+2016,canada,Teck Resources Limited,4,528,8057
+2018,global,Daikin Industries,1,54,607
+2017,united_states,Shell,5,936,13113
+2021,united_states,ArcelorMittal,2,472,5545
+2019,united_states,Southern Company,7,480,5646
+2018,california,Ford Motor,4,1336,43157
+2021,south_africa,Eskom Holdings Soc Limited,8,985,8532
+2017,global,Vedanta Resources,2,134,1591
+2020,global,Coca-Cola,3,3611,42529
+2020,global,EDF,2,292,7490
+2020,global,Enel,7,485,8765
+2020,global,Iberdrola,5,666,16569
+2020,global,Saint-Gobain,8,1198,31130
+2021,norway,HeidelbergCement,1,1555,11974
+2014,global,Volkswagen Group,4,3858,97379
+2016,global,Holcim,11,4045,92285
+2021,global,RWE,6,485,4912
+2013,eu,Iberdrola,2,416,22980
+2021,united_kingdom,Saint-Gobain,3,217,1212
+2015,global,Vedanta Resources,3,2571,36053
+2014,united_states,BMW Group,2,79,1360
+2021,united_kingdom,CRH,1,50,4195
+2021,massachusetts,National Grid,1,26,695
+2016,united_states,NextEra Energy,9,7217,175506
+2021,eu,Dow Inc,4,1109,10226
+2010,eu,ArcelorMittal,1,84,692
+2014,global,Reliance Industries Limited,1,2201,28798
+2020,eu,Nestlé,4,620,12533
+2020,global,Incitec Pivot,4,187,3324
+2019,global,Suncor Energy,2,170,2330
+2015,global,HeidelbergCement,7,6206,74864
+2016,north_america,Kinder Morgan,5,4106,59245
+2017,eu,Volkswagen Group,2,160,2012
+2016,australia,General Motors,1,112,2361
+2019,united_states,Coca-Cola,1,174,1157
+2017,united_states,BASF,1,2777,23302
+2017,global,Danone,2,2900,37144
+2017,united_states,Nestlé,1,2777,23302
+2017,global,Saint-Gobain,2,2796,23597
+2017,global,Volvo Group,3,3435,42351
+2017,global,EDF,4,4106,47541
+2017,united_states,Saint-Gobain,1,2777,11651
+2017,global,BASF,6,3294,19252
+2017,global,Nestlé,2,3677,37351
+2019,united_states,WEC Energy Group Inc,4,1949,27189
+2021,california,XCEL Energy,1,302,2643
+2018,united_states,Volvo Group,2,434,10525
+2015,europe,Vale,1,393,2201
+2015,france,EDF,3,305,2366
+2021,global,Philips,5,901,30921
+2021,united_states,Phillips 66,1,105,1736
+2018,australia,Shell,2,140,2891
+2021,global,Trane Technologies (formerly Ingersoll-Rand),8,1104,36393
+2018,north_america,Enbridge,2,3085,39137
+2016,global,Enel,5,181,2780
+2020,eu,Naturgy (Gas Natural Fenosa),4,242,5021
+2017,global,Equinor (formerly Statoil),6,5829,91865
+2021,india,Suzuki,2,317,2537
+2021,japan,Toyota Motor,3,857,19337
+2021,global,PACCAR,1,68,892
+2021,california,PACCAR,1,68,1784
+2021,europe,SSAB,1,328,8536
+2018,united_states,Martin Marietta Materials,1,66,763
+2015,eu,BASF,6,1144,10586
+2019,eu,Fortum,5,543,30495
+2018,south_africa,ArcelorMittal,1,26,579
+2020,united_states,AES Corporation,3,687,13787
+2020,united_states,PPL Corporation,2,494,5464
+2020,netherlands,LyondellBasell Industries,1,27,232
+2011,united_states,Chevron,1,39,159
+2017,global,Woodside,5,507,9760
+2014,global,Fortum,1,22,121
+2021,eu,E.ON,13,2672,58631
+2016,canada,CRH,1,19,329
+2017,united_states,Nissan,2,257,13475
+2021,global,Repsol,4,707,11598
+2018,global,RWE,2,5888,195766
+2014,global,Shell,9,1249,29136
+2021,global,Engie,8,3319,123341
+2021,europe,Coca-Cola,1,40,1420
+2021,united_states,Renault,1,40,8520
+2021,united_states,EDF,2,420,21435
+2021,united_states,Enel,3,492,21907
+2021,united_states,Iberdrola,3,571,22736
+2021,united_states,Saint-Gobain,3,467,21661
+2020,czech_republic,CEZ,3,175,2246
+2016,global,XCEL Energy,1,130,9028
+2021,eu,thyssenkrupp,11,2778,30671
+2019,global,Woodside,4,421,5770
+2019,global,Air France-KLM,2,269,5309
+2021,italy,Enel,1,209,2080
+2013,eu,E.ON,5,846,16593
+2020,south_america,Petrobras,4,230,2198
+2018,eu,ArcelorMittal,5,3709,44162
+2016,united_kingdom,BASF,2,329,6132
+2016,europe,BASF,1,95,1492
+2021,united_states,SSAB,4,884,5759
+2017,global,CRH,1,3887,45851
+2019,united_states,FirstEnergy Corp,9,1829,46329
+2019,united_states,Phillips 66,1,177,3462
+2021,global,Adbri (Adelaide Brighton),2,575,20597
+2021,united_kingdom,Uniper,5,829,11474
+2018,california,Nestlé,1,35,587
+2018,california,Unilever,1,35,587
+2021,africa,Sasol,3,302,3784
+2016,canada,Rio Tinto Group,3,557,20362
+2016,global,Rio Tinto Group,6,2153,41688
+2021,global,Grupo Argos,2,132,1156
+2015,global,Lukoil,3,403,4431
+2020,poland,PGE (Polska Grupa Energetyczna),10,1897,20161
+2018,united_states,Danone,4,100,1356
+2016,global,General Motors,2,411,5590
+2014,eu,Enel,7,3856,69166
+2019,china,China Petroleum & Chemical Corporation (Sinopec),1,108,398
+2018,global,Renault,2,149,4368
+2021,germany,Volkswagen Group,6,744,7550
+2021,global,Incitec Pivot,2,72,1539
+2020,china,CNOOC,1,2223,51862
+2020,global,CNOOC,1,2223,25931
+2021,china,CNOOC,2,2252,52384
+2021,india,General Electric,1,47,848
+2018,eu,SSAB,1,225,10713
+2019,global,Rosneft,1,432,8556
+2018,india,Oil and Natural Gas Corporation (ONGC),1,31,621
+2016,australia,Rio Tinto Group,5,456,16128
+2021,eu,SSE,2,200,4964
+2019,global,SSE,3,212,3465
+2015,global,ConocoPhillips,7,944,9484
+2016,eu,Philips,6,572,5965
+2013,global,Enel,2,442,16395
+2017,australia,Incitec Pivot,4,361,4890
+2011,global,Equinor (formerly Statoil),1,103,1062
+2016,global,Teck Resources Limited,2,164,1964
+2021,united_kingdom,Nestlé,1,50,1073
+2020,global,Dow Inc,2,102,1637
+2015,global,Nissan,9,800,9839
+2019,europe,Air France-KLM,1,76,737
+2015,global,General Electric,3,573,15094
+2019,global,Engie,4,322,3264
+2021,new_york,PACCAR,4,4599,44738
+2021,new_york,Volkswagen Group,3,4547,85064
+2021,new_york,Volvo Group,3,4547,43458
+2017,united_states,WEC Energy Group Inc,2,391,3569
+2019,eu,Enel,3,197,9624
+2017,united_states,Phillips 66,1,130,2150
+2019,eu,Gazprom,1,2159,26753
+2021,united_states,Airbus Group,3,95,3070
+2019,global,Moller Maersk (Maersk),5,2131,49721
+2021,united_kingdom,BP,5,698,15345
+2020,canada,Teck Resources Limited,2,113,2113
+2020,global,CEZ,3,311,5636
+2013,eu,OMV,1,117,5607
+2014,global,ExxonMobil,6,1662,14274
+2019,florida,NextEra Energy,2,383,3762
+2021,global,Eni,3,280,5680
+2021,nigeria,Chevron,1,88,729
+2021,nigeria,TotalEnergies,1,88,729
+2019,india,Vedanta Resources,3,550,3729
+2019,united_states,Honda Motor,2,75,1841
+2018,texas,NRG Energy,1,70,910
+2016,eu,E.ON,6,2109,64181
+2021,canada,Air Liquide,1,156,1303
+2020,middle_east,Saudi Aramco,3,191,3680
+2013,eu,Volkswagen Group,2,392,2454
+2017,global,Gazprom,2,2670,30495
+2018,global,Gazprom,6,6539,88993
+2020,korea,Korea Electric Power Corporation (KEPCO),4,16715,77105
+2020,global,Valero Energy,1,36,185
+2014,united_states,NextEra Energy,4,247,4200
+2020,australia,Woolworths Ltd,3,6160,120164
+2018,global,Enel,5,8999,51531
+2017,south_america,Ecopetrol,1,270,1981
+2021,global,Dow Inc,3,306,8209
+2016,global,BASF,1,44,457
+2014,global,Petrobras,1,2196,33796
+2019,eu,Volvo Group,2,4418,47408
+2019,united_states,Berkshire Hathaway,3,374,5251
+2015,global,National Grid,5,1962,97870
+2013,eu,National Grid,1,85,2019
+2018,eu,Volvo Group,5,858,7964
+2014,global,Anglo American,5,983,10123
+2021,eu,Gazprom,3,351,8905
+2021,united_states,Stellantis,8,1614,62110
+2017,australia,Glencore International,4,700,8405
+2021,asia,Bumi Resources,2,166,2082
+2017,eu,RWE,4,4513,140476
+2018,eu,Repsol,2,247,3514
+2021,united_states,Procter & Gamble,3,1040,15220
+2019,global,thyssenkrupp,2,354,6258
+2016,united_states,FirstEnergy Corp,3,293,4128
+2019,canada,Shell,3,439,7472
+2014,eu,Engie,4,573,14827
+2014,eu,Eni,2,456,7078
+2014,global,E.ON,2,502,10275
+2014,global,Enel,6,2537,40447
+2017,united_states,NRG Energy,5,401,7227
+2014,global,Duke Energy,3,213,3044
+2016,global,Renault,6,4028,86081
+2018,north_america,Kinder Morgan,2,3181,74956
+2016,global,Berkshire Hathaway,1,5720,21814
+2016,united_kingdom,Fortum,1,69,1242
+2021,global,Nornickel (MMC Norilsk Nickel),4,115,2714
+2018,france,Air France-KLM,1,202,2249
+2018,australia,ConocoPhillips,1,35,540
+2021,japan,Honda Motor,3,236,3339
+2021,global,Antam (Aneka Tambang),1,39,617
+2014,global,Renault,1,1848,25192
+2019,canada,Suncor Energy,5,340,2927
+2018,global,Dominion Energy,1,763,11989
+2015,global,Coca-Cola,5,9601,97540
+2015,germany,thyssenkrupp,1,219,3868
+2019,japan,Toray Industries Inc.,1,163,1081
+2017,australia,Rio Tinto Group,2,162,7637
+2021,canada,Rio Tinto Group,1,91,2992
+2014,australia,BHP,3,375,12596
+2020,europe,Equinor (formerly Statoil),1,51,281
+2016,united_states,Chevron,1,63,1607
+2016,global,Nippon Steel Corporation,3,363,1981
+2017,global,Korea Electric Power Corporation (KEPCO),1,101,707
+2017,korea,Korea Electric Power Corporation (KEPCO),2,140,1380
+2020,global,Equinor (formerly Statoil),11,793,18857
+2017,united_states,Honda Motor,2,3096,41616
+2017,united_states,Toyota Motor,4,565,14272
+2020,canada,Honda Motor,1,45,915
+2014,global,General Motors,2,275,3597
+2015,global,BMW Group,1,1663,94731
+2015,united_states,National Grid,2,1718,32886
+2019,united_kingdom,Phillips 66,1,293,2298
+2015,eu,Nissan,3,480,4413
+2018,europe,Air Liquide,2,195,2009
+2021,united_states,Honda Motor,6,758,23303
+2016,united_states,SSAB,2,182,2746
+2017,eu,SSAB,2,246,4869
+2017,global,SSAB,3,2688,76712
+2020,north_america,Suncor Energy,7,538,7919
+2019,eu,TotalEnergies,4,255,3073
+2020,global,Devon Energy,3,3588,87088
+2020,australia,Qantas Airways,2,840,8252
+2014,global,Nissan,5,821,7620
+2019,global,BHP,6,1119,20794
+2021,eu,Bayer,3,538,4376
+2021,united_states,Engie,3,146,2896
+2019,eu,Engie,6,488,20437
+2013,global,General Motors,2,226,1758
+2019,eu,Coca-Cola,1,60,697
+2021,brazil,Suzano (formerly Fibria Celulose),5,229,6361
+2019,poland,PGE (Polska Grupa Energetyczna),2,140,1627
+2021,global,Berkshire Hathaway,2,89,2625
+2018,global,HeidelbergCement,3,3041,108213
+2020,eu,Cemex,3,683,28297
+2020,eu,Trane Technologies (formerly Ingersoll-Rand),2,670,18940
+2020,eu,Danone,3,550,20568
+2021,united_kingdom,TotalEnergies,1,53,360
+2013,global,Suncor Energy,2,88,1418
+2016,australia,Nissan,1,35,712
+2020,eu,Delta Air Lines,1,3686,50931
+2020,united_states,Delta Air Lines,1,3686,50931
+2020,global,Delta Air Lines,2,3899,52550
+2021,global,Devon Energy,2,76,1406
+2015,italy,Enel,1,256,1603
+2019,global,Colgate-Palmolive,2,292,3110
+2016,eu,Unilever,2,68,2811
+2021,europe,Severstal,5,199,7913
+2020,united_states,American Electric Power,6,5337,425468
+2020,global,National Grid,4,3370,43602
+2021,global,Reliance Industries Limited,1,40,723
+2016,global,SSE,3,5433,155362
+2017,eu,PGE (Polska Grupa Energetyczna),3,260,2305
+2019,eu,Renault,3,322,3487
+2020,global,Procter & Gamble,2,318,2362
+2019,global,Coca-Cola,2,3278,34621
+2014,global,Holcim,2,4694,170896
+2019,california,Toyota Motor,2,1014,14399
+2019,global,Toyota Motor,1,318,2715
+2013,global,Nissan,1,224,1047
+2016,united_states,AES Corporation,1,24,573
+2018,global,thyssenkrupp,3,262,3349
+2019,australia,Adbri (Adelaide Brighton),1,33,683
+2020,united_states,Nissan,1,51,868
+2020,europe,SSAB,1,38,262
+2016,global,AGL Australia,1,116,1396
+2012,north_america,Kinder Morgan,1,378,3095
+2015,eu,Coca-Cola,5,374,4614
+2016,eu,Iberdrola,7,4355,119967
+2021,germany,RWE,3,153,1529
+2021,global,Canadian Natural Resources Ltd (CNRL),2,73,676
+2016,global,Dominion Energy,2,5277,70966
+2015,global,Air Liquide,2,558,11053
+2020,global,Korea Electric Power Corporation (KEPCO),2,16410,75878
+2020,global,Pemex (Petróleos Mexicanos),1,201,4377
+2020,global,ConocoPhillips,3,164,2372
+2021,global,Enbridge,4,80,581
+2018,eu,Gazprom,3,2100,56471
+2019,global,RWE,3,193,2189
+2015,mexico,Cemex,3,370,4433
+2019,global,Enbridge,3,144,1812
+2020,australia,Enel,1,111,1063
+2017,global,Enel,3,160,1821
+2018,global,Trane Technologies (formerly Ingersoll-Rand),3,159,2078
+2018,north_america,Suncor Energy,1,25,203
+2017,germany,RWE,4,3851,58769
+2015,canada,Teck Resources Limited,2,374,4018
+2019,new_york,Enel,2,89,820
+2013,united_states,Berkshire Hathaway,2,129,2165
+2021,global,Renault,2,373,13688
+2021,global,Toyota Motor,5,6386,103413
+2019,united_states,Danone,2,77,2037
+2019,united_states,Nestlé,1,53,783
+2020,global,Daikin Industries,2,7125,75413
+2019,new_york,Exelon,1,53,1119
+2015,global,Imperial Oil Limited,3,507,5791
+2019,global,EDF,4,226,2108
+2018,global,General Electric,4,2529,68056
+2014,global,BASF,4,1511,63007
+2019,global,Honda Motor,4,330,4857
+2017,united_states,FirstEnergy Corp,1,225,19776
+2016,eu,BASF,3,592,6455
+2016,eu,Dow Inc,4,189,3023
+2016,eu,Saint-Gobain,1,18,388
+2020,eu,National Grid,3,226,4408
+2020,united_states,Cummins,2,227,1893
+2017,global,Rosneft,2,418,6678
+2015,global,Origin Energy,2,305,3621
+2020,global,Qantas Airways,3,345,6200
+2018,eu,BASF,3,504,7394
+2014,united_states,NRG Energy,1,582,13824
+2016,united_states,General Electric,1,371,6052
+2016,new_york,Exelon,2,142,1712
+2014,united_states,SSAB,3,104,1671
+2016,united_states,Colgate-Palmolive,1,137,1230
+2016,global,BMW Group,1,3626,67812
+2016,eu,BMW Group,2,4007,36548
+2018,eu,Uniper,9,1305,24345
+2018,netherlands,Uniper,1,363,2496
+2017,global,BP,5,375,5209
+2019,global,Occidental Petroleum,4,369,5124
+2019,united_states,Occidental Petroleum,2,131,1587
+2013,eu,General Electric,3,180,5060
+2020,united_states,ArcelorMittal,2,150,1396
+2021,eu,Boeing,3,1382,18463
+2015,global,Nippon Steel Corporation,1,2494,19986
+2020,japan,Hitachi,1,6708,53244
+2017,global,Air France-KLM,1,42,176
+2020,japan,Nissan,1,2617,33295
+2017,global,Uniper,2,261,5019
+2021,north_america,Danone,2,305,2430
+2021,europe,Rosneft,4,959,10883
+2019,france,Engie,3,345,3649
+2015,global,Repsol,1,113,864
+2016,global,Duke Energy,1,10391,72866
+2021,global,Rolls-Royce,7,524,12366
+2011,spain,Iberdrola,1,58,782
+2017,global,ExxonMobil,11,3669,104801
+2017,united_states,Ford Motor,6,2770,40575
+2021,global,Eskom Holdings Soc Limited,4,207,3483
+2019,north_america,Enbridge,6,3732,44733
+2014,africa,ArcelorMittal,3,3749,70795
+2019,eu,Unilever,4,332,10317
+2014,united_states,Shell,3,402,7876
+2014,global,Honda Motor,2,12669,82260
+2021,eu,Coca-Cola,1,58,1182
+2020,united_states,Valero Energy,5,1538,27530
+2018,asia,Santos,1,40,205
+2017,australia,General Motors,1,240,4645
+2017,europe,Rosneft,3,8088,100335
+2019,united_states,AES Corporation,4,578,6037
+2020,global,International Paper Company,3,2646,69686
+2017,oceania,Bluescope Steel,1,650,85864
+2015,canada,Canadian Natural Resources Ltd (CNRL),2,200,1746
+2018,global,Dow Inc,4,5543,54810
+2015,global,Air France-KLM,1,55,1230
+2020,california,Ford Motor,3,1000,10582
+2015,united_kingdom,Cemex,1,278,6003
+2015,eu,Cemex,2,352,7110
+2012,global,Volkswagen Group,1,3461,26101
+2021,global,Qantas Airways,3,193,2053
+2020,eu,HeidelbergCement,3,1047,18120
+2020,asia,Antam (Aneka Tambang),1,69,686
+2020,united_states,Equinor (formerly Statoil),3,291,11061
+2018,new_jersey,Exelon,3,253,4969
+2021,global,Equinor (formerly Statoil),2,285,2863
+2021,nigeria,Shell,1,20,285
+2020,africa,Equinor (formerly Statoil),1,65,1565
+2018,global,Coca-Cola,2,92,1241
+2019,asia,AES Corporation,1,223,1236
+2017,united_states,Valero Energy,2,137,2207
+2014,germany,E.ON,3,459,4144
+2017,europe,SSAB,1,64,750
+2018,eu,Air Liquide,4,808,9939
+2015,north_america,Kinder Morgan,2,335,3841
+2021,global,Caterpillar,2,137,2364
+2021,global,Severstal,4,118,2239
+2013,global,National Grid,3,491,6469
+2013,global,Walmart Stores,1,194,1526
+2020,united_states,Marathon Petroleum,3,235,2595
+2021,global,E.ON,3,353,3454
+2018,eu,BP,4,352,5652
+2018,eu,Dow Inc,2,156,2580
+2018,eu,E.ON,5,452,8880
+2018,europe,Enel,1,51,527
+2018,eu,Iberdrola,4,485,6877
+2018,eu,Philips,2,90,1684
+2017,global,Volkswagen Group,2,4857,22131
+2020,global,UltraTech Cement,5,314,5464
+2019,india,TotalEnergies,2,58,898
+2019,australia,Rio Tinto Group,3,204,9439
+2021,global,Orica,7,8243,273077
+2014,australia,General Electric,4,340,4405
+2020,india,Reliance Industries Limited,3,229,1949
+2011,eu,Nestlé,1,26,438
+2018,global,Cummins,4,620,21997
+2019,eu,Uniper,8,1562,28833
+2019,germany,Uniper,3,402,3585
+2019,global,Uniper,3,524,12632
+2014,united_states,National Grid,6,900,13962
+2020,korea,POSCO,5,28218,107222
+2020,canada,TC Energy,5,2758,37546
+2020,united_kingdom,Ford Motor,1,458,33072
+2009,eu,Holcim,1,2562,36888
+2021,new_jersey,Exelon,2,357,3720
+2013,global,Petrobras,1,2242,29219
+2020,eu,Philips,2,153,1329
+2014,eu,Bayer,7,3666,38605
+2015,global,General Motors,2,117,1849
+2021,japan,Nippon Steel Corporation,7,3645,126369
+2020,united_kingdom,Danone,1,239,2123
+2014,china,EDF,1,232,2118
+2021,united_states,Walmart Stores,3,536,17433
+2021,thailand,PTT Global Chemicals,5,805,7248
+2017,united_kingdom,Centrica,5,2271,245181
+2015,united_states,Raytheon Technologies Corporation (formerly United Technologies),2,188,1777
+2018,united_states,ConocoPhillips,2,128,1759
+2020,eu,Sasol,1,127,2255
+2016,global,Rosneft,1,252,4940
+2019,australia,Incitec Pivot,2,79,1814
+2020,north_america,Enbridge,4,576,6204
+2018,eu,Saint-Gobain,3,493,11398
+2018,eu,Trane Technologies (formerly Ingersoll-Rand),1,39,630
+2018,eu,Unilever,2,101,1235
+2021,united_states,Valero Energy,4,4768,58328
+2021,australia,Enel,1,133,3102
+2014,eu,Chevron,2,622,7637
+2014,eu,National Grid,3,1369,29821
+2016,global,Philips,1,451,3155
+2019,europe,Rosneft,2,111,1495
+2016,global,Cemex,5,3364,100562
+2017,canada,ExxonMobil,1,141,1768
+2015,europe,BASF,1,1728,16243
+2021,global,Boral Limited,1,55,389
+2015,global,CEZ,2,122,1134
+2015,europe,CEZ,1,62,509
+2021,united_kingdom,RWE,6,455,4024
+2020,global,LyondellBasell Industries,6,475,15992
+2016,global,Occidental Petroleum,2,1559,12070
+2020,australia,Anglo American,1,374,14446
+2020,united_kingdom,CRH,2,76,2145
+2016,global,Air Liquide,2,1507,19615
+2015,united_states,Colgate-Palmolive,1,49,954
+2021,spain,Repsol,1,586,4437
+2016,eu,ArcelorMittal,4,1245,23038
+2018,global,TC Energy,1,26,331
+2013,eu,Shell,4,1123,97906
+2014,global,Glencore International,1,235,1739
+2021,united_states,LyondellBasell Industries,2,388,7137
+2013,global,Equinor (formerly Statoil),3,915,16319
+2014,global,Caterpillar,2,4378,127135
+2014,united_states,Caterpillar,2,4378,62753
+2020,united_kingdom,RWE,5,255,3099
+2016,united_kingdom,EDF,8,1336,24008
+2015,eu,General Motors,4,386,3808
+2013,eu,RWE,5,216,9934
+2021,new_jersey,Volvo Group,3,335,3966
+2019,global,Petrobras,2,63,473
+2017,france,Engie,2,162,2463
+2017,eu,Engie,1,94,3688
+2018,global,Honda Motor,3,2485,22960
+2018,eu,Rolls-Royce,1,83,1113
+2020,global,Boeing,4,1261,22660
+2021,united_kingdom,Renault,1,59,2192
+2020,thailand,PTT Global Chemicals,2,159,4103
+2016,france,Engie,2,109,1285
+2020,united_states,FirstEnergy Corp,9,856,17130
+2016,global,Centrica,5,471,9347
+2017,canada,Toyota Motor,2,173,1870
+2018,united_kingdom,Uniper,5,705,31433
+2021,north_america,ConocoPhillips,1,79,277
+2018,eu,EDF,1,256,1693
+2014,global,Cemex,1,79,1310
+2014,eu,Renault,1,43,689
+2018,global,Nissan,1,2102,18298
+2021,africa,ExxonMobil,1,90,1449
+2016,korea,Korea Electric Power Corporation (KEPCO),3,7943,122057
+2017,global,Naturgy (Gas Natural Fenosa),2,73,1680
+2016,global,Fortum,5,791,27041
+2017,eu,Centrica,2,1989,44289
+2017,eu,General Electric,1,21,431
+2017,eu,Unilever,3,588,6052
+2021,united_kingdom,Air Liquide,2,241,1359
+2020,australia,Rio Tinto Group,5,1592,30044
+2021,france,Holcim,1,70,964
+2019,europe,Equinor (formerly Statoil),3,172,2474
+2016,eu,TotalEnergies,4,1651,19653
+2018,north_america,Devon Energy,1,76,2050
+2018,global,Devon Energy,1,76,1025
+2018,india,Reliance Industries Limited,2,66,927
+2018,united_states,Cummins,3,462,3539
+2017,australia,General Electric,3,245,3160
+2020,global,Cemex,2,371,25301
+2020,china,Air Liquide,2,184,1943
+2017,asia,General Electric,1,88,966
+2020,australia,Boral Limited,1,36,567
+2016,global,Incitec Pivot,1,50,768
+2015,global,Saint-Gobain,3,462,5558
+2021,japan,BHP,2,62,715
+2020,global,Philips,2,388,7356
+2018,united_states,Dow Inc,2,3868,35110
+2013,global,Coca-Cola,3,564,4015
+2018,canada,Imperial Oil Limited,4,824,12538
+2021,global,thyssenkrupp,5,254,4539
+2020,global,American Airlines Group,4,6175,80138
+2020,canada,Ford Motor,1,95,1375
+2016,north_america,Honda Motor,1,2777,38450
+2017,global,Centrica,1,30,223
+2018,maryland,Exelon,2,1820,19889
+2016,united_states,National Grid,3,1536,11334
+2016,france,Holcim,1,114,2461
+2021,global,Cummins,2,1844,22516
+2015,united_kingdom,EDF,3,329,3469
+2021,united_kingdom,Volkswagen Group,3,421,12521
+2018,global,Air Liquide,5,5100,74873
+2014,united_kingdom,Centrica,4,2313,27139
+2012,global,Valero Energy,2,344,5274
+2020,global,Santos,3,147,2181
+2020,eu,General Electric,1,47,631
+2016,global,EDF,7,1324,58931
+2018,united_kingdom,Toyota Motor,2,112,1346
+2015,australia,Rio Tinto Group,1,136,2915
+2016,global,South32,4,615,14677
+2017,china,General Motors,1,177,1923
+2014,france,EDF,1,35,581
+2020,united_states,Boeing,2,1764,28851
+2021,united_states,PACCAR,1,25,298
+2018,australia,Boral Limited,2,170,3803
+2017,global,Iberdrola,1,195,2608
+2019,australia,Origin Energy,14,1922,130511
+2017,global,Suncor Energy,3,954,75253
+2013,eu,Enel,3,705,42312
+2014,australia,Shell,1,128,1953
+2014,canada,Shell,1,128,3906
+2021,australia,Volkswagen Group,2,114,2167
+2018,eu,RWE,3,3776,114762
+2017,netherlands,RWE,1,3452,54940
+2020,global,SSE,7,1092,8687
+2017,global,Chevron,3,426,5412
+2015,united_states,Phillips 66,1,263,16020
+2014,united_states,Coca-Cola,1,124,2688
+2019,global,Boeing,2,1077,9615
+2021,europe,Naturgy (Gas Natural Fenosa),1,40,204
+2018,brazil,Suzano (formerly Fibria Celulose),1,1331,15881
+2020,united_states,Bunge Limited,1,750,9903
+2014,thailand,PTT Global Chemicals,1,118,1679
+2018,china,Santos,1,36,202
+2016,united_states,Rio Tinto Group,2,1745,22935
+2018,eu,thyssenkrupp,2,538,14721
+2021,india,UltraTech Cement,2,176,1952
+2015,eu,Repsol,1,325,15642
+2011,eu,Centrica,1,80,1618
+2017,eu,Equinor (formerly Statoil),3,219,4707
+2018,eu,CEZ,2,273,4413
+2019,india,Oil and Natural Gas Corporation (ONGC),5,256,3144
+2014,global,PepsiCo,5,583,8555
+2015,global,Berkshire Hathaway,1,15,330
+2020,global,Saudi Aramco,3,295,3435
+2021,global,Procter & Gamble,2,1107,36409
+2020,california,Occidental Petroleum,1,26,468
+2018,united_states,Woodside,1,39,782
+2017,global,ArcelorMittal,3,641,9157
+2017,eu,ArcelorMittal,8,962,11278
+2021,eu,Philips,1,118,6600
+2021,europe,E.ON,2,216,2620
+2021,europe,Enel,1,118,1320
+2015,eu,CRH,1,135,1646
+2015,eu,Dow Inc,2,272,2616
+2020,india,TotalEnergies,2,104,1172
+2020,netherlands,Fortum,1,109,1805
+2021,china,ExxonMobil,1,108,1228
+2019,australia,Woolworths Ltd,2,6027,154433
+2012,eu,ArcelorMittal,1,139,3688
+2013,global,ArcelorMittal,1,139,3688
+2015,north_america,Panasonic,1,113,599
+2019,united_states,Cummins,6,1071,10655
+2016,global,Qantas Airways,2,153,1851
+2015,global,Volkswagen Group,3,229,2460
+2020,north_america,General Motors,1,71,1131
+2019,eu,ArcelorMittal,3,443,6101
+2017,australia,Origin Energy,4,1333,39307
+2021,europe,Trane Technologies (formerly Ingersoll-Rand),1,92,697
+2018,global,Naturgy (Gas Natural Fenosa),3,130,1153
+2021,united_states,TC Energy,4,198,2308
+2016,global,Grupo Argos,3,570,5140
+2021,europe,Renault,1,166,1478
+2013,canada,Suncor Energy,1,157,4034
+2021,brazil,Vale,3,137,2009
+2019,global,Volkswagen Group,3,7224,57597
+2021,united_states,Equinor (formerly Statoil),1,41,236
+2021,united_states,ConocoPhillips,7,766,10112
+2020,north_america,BP,1,87,885
+2018,poland,PGE (Polska Grupa Energetyczna),3,1267,23681
+2016,united_states,Berkshire Hathaway,6,407,4564
+2015,eu,Volkswagen Group,3,643,6504
+2017,north_america,Suncor Energy,1,160,2575
+2019,global,Incitec Pivot,1,28,2118
+2020,global,Uniper,2,371,12062
+2018,africa,South32,3,346,4987
+2018,australia,South32,1,118,894
+2018,global,South32,4,232,2355
+2021,australia,TotalEnergies,2,305,2941
+2017,global,Canadian Natural Resources Ltd (CNRL),2,318,9124
+2013,united_kingdom,National Grid,2,325,3270
+2017,united_kingdom,Unilever,1,88,745
+2019,maryland,Exelon,2,569,5512
+2019,oregon,Boeing,1,133,2071
+2020,global,Panasonic,3,2105,39342
+2020,japan,Panasonic,1,1798,35426
+2021,global,Foxconn,1,4967,112650
+2017,united_kingdom,RWE,2,122,2786
+2017,eu,Holcim,1,112,1132
+2019,global,SSAB,6,428,7477
+2019,united_states,SSAB,1,91,1113
+2019,global,Toray Industries Inc.,3,4105,51317
+2016,eu,Volkswagen Group,3,1232,16990
+2018,australia,Toyota Motor,1,67,722
+2021,canada,Holcim,1,70,553
+2016,global,Imperial Oil Limited,1,24,557
+2019,eu,SSE,9,738,17662
+2016,united_states,Dow Inc,4,1429,15139
+2021,global,BMW Group,1,83,5049
+2017,global,Martin Marietta Materials,2,72,1485
+2019,australia,BHP,4,323,8136
+2015,global,Duke Energy,3,225,1690
+2012,global,Enbridge,1,2361,71512
+2021,global,Phillips 66,3,2051,24016
+2019,california,Shell,1,37,443
+2019,illinois,Exelon,3,243,4597
+2019,global,PTT Global Chemicals,3,236,3231
+2019,thailand,PTT Global Chemicals,1,164,3098
+2015,global,PepsiCo,1,42,595
+2019,europe,Honda Motor,1,88,955
+2020,australia,Lockheed Martin,2,170,4995
+2018,global,Saudi Aramco,2,146,1648
+2019,global,Bayer,2,909,19876
+2019,united_states,Trane Technologies (formerly Ingersoll-Rand),2,296,2046
+2020,global,Centrica,3,266,8370
+2020,eu,Centrica,1,188,3767
+2020,california,Phillips 66,3,1085,12110
+2021,united_states,South32,1,45,569
+2019,eu,HeidelbergCement,1,142,1478
+2013,global,Unilever,1,43,887
+2020,united_states,Repsol,2,97,840
+2018,global,Enbridge,1,3044,38701
+2018,north_america,TC Energy,2,151,3047
+2020,united_states,Volvo Group,2,245,6157
+2015,germany,Bayer,2,146,1738
+2019,germany,thyssenkrupp,1,189,1136
+2019,eu,thyssenkrupp,1,189,1136
+2018,germany,General Electric,1,89,2528
+2017,australia,Toyota Motor,2,141,2545
+2021,california,United Airlines,1,88,1455
+2020,japan,Honda Motor,2,4282,45700
+2018,colorado,Honda Motor,1,38,779
+2019,united_states,BMW Group,1,36,1092
+2019,united_states,Ford Motor,3,104,2546
+2019,united_states,Nissan,2,101,1778
+2019,united_states,Volkswagen Group,1,36,1092
+2017,united_states,International Paper Company,1,2199,28590
+2019,global,International Paper Company,5,6368,128019
+2015,united_states,Boeing,1,193,2118
+2019,global,Bluescope Steel,2,117,1344
+2021,europe,OMV,2,89,482
+2020,united_states,United Airlines,1,402,4146
+2021,netherlands,Uniper,4,418,4220
+2021,united_kingdom,Bayer,3,128,765
+2017,europe,HeidelbergCement,1,77,1147
+2015,united_kingdom,E.ON,3,422,16539
+2017,global,Renault,3,289,4163
+2017,united_states,XCEL Energy,3,804,13172
+2016,global,Suncor Energy,5,443,5288
+2016,united_kingdom,RWE,1,70,2324
+2021,global,Bumi Resources,1,24,478
+2020,global,Ecopetrol,2,81,929
+2021,global,Korea Electric Power Corporation (KEPCO),1,5993,49155
+2018,united_states,Exelon,4,3045,30611
+2020,global,Orica,2,80,509
+2017,australia,Nissan,2,246,3511
+2014,united_states,Ford Motor,1,3376,44145
+2016,global,Saint-Gobain,1,24,318
+2021,united_kingdom,Shell,6,1046,42318
+2021,california,EDF,1,159,3321
+2021,california,RWE,1,159,3321
+2021,norway,Equinor (formerly Statoil),1,146,916
+2013,eu,Engie,3,613,66316
+2013,europe,Engie,1,399,9036
+2016,australia,Renault,1,200,1185
+2021,united_states,Toyota Motor,5,289,4510
+2018,canada,Toyota Motor,2,258,2136
+2021,united_kingdom,PPL Corporation,1,143,2307
+2013,united_states,National Grid,1,349,3888
+2020,eu,Dow Inc,1,427,5320
+2021,eu,LyondellBasell Industries,5,1703,18002
+2020,north_america,Kinder Morgan,4,586,20491
+2021,europe,BP,1,306,2577
+2016,global,BP,5,628,5915
+2020,united_kingdom,Holcim,2,63,843
+2021,united_states,Enbridge,3,1660,22013
+2018,united_kingdom,Anglo American,1,69,449
+2019,africa,Engie,1,22,476
+2021,global,Suzuki,3,3109,48250
+2017,china,China Shenhua Energy,2,2110,21058
+2019,global,Dow Inc,2,136,4960
+2016,global,Woodside,1,127,1102
+2014,global,Toyota Motor,1,5570,103276
+2016,eu,Boeing,1,42,507
+2018,global,Rolls-Royce,1,2123,19098
+2020,australia,Shell,2,156,3224
+2014,eu,Unilever,3,579,5907
+2021,france,Engie,5,2209,27621
+2021,eu,National Grid,4,1020,19344
+2017,canada,Canadian Natural Resources Ltd (CNRL),2,263,1519
+2019,united_states,Bunge Limited,2,3161,70011
+2019,global,Bunge Limited,1,3096,67461
+2017,south_africa,Eskom Holdings Soc Limited,1,24,281
+2019,texas,Phillips 66,2,297,3253
+2019,texas,Valero Energy,2,201,1849
+2021,global,Uniper,4,214,2778
+2016,eu,CRH,1,1916,20962
+2018,eu,BMW Group,1,4122,117999
+2014,canada,TC Energy,1,33,598
+2015,global,Toyota Motor,4,595,5638
+2019,california,BMW Group,2,197,2431
+2019,california,Honda Motor,2,197,2431
+2021,texas,EDF,1,71,1007
+2017,global,Panasonic,1,5105,45805
+2017,global,PepsiCo,2,73,923
+2020,global,Raytheon Technologies Corporation (formerly United Technologies),2,2078,52719
+2021,korea,SK Innovation Co,1,4822,39406
+2011,canada,Suncor Energy,1,658,14201
+2012,united_states,BMW Group,1,2763,36103
+2012,united_states,Ford Motor,1,2763,36103
+2012,united_states,General Motors,2,2915,37289
+2012,united_states,Honda Motor,2,2889,38625
+2012,united_states,Volkswagen Group,1,2763,36103
+2013,united_states,Dow Inc,1,653,8858
+2015,united_kingdom,Panasonic,1,10,256
+2016,canada,Canadian Natural Resources Ltd (CNRL),1,144,888
+2016,global,Canadian Natural Resources Ltd (CNRL),2,222,2961
+2021,global,Occidental Petroleum,3,476,23192
+2020,united_states,Chevron,2,262,2793
+2021,california,Ford Motor,5,4072,61838
+2021,oceania,ExxonMobil,1,57,2643
+2018,canada,Shell,1,137,5739
+2017,africa,Sasol,2,239,21489
+2019,global,Berkshire Hathaway,1,323,2740
+2018,united_states,WEC Energy Group Inc,1,164,3613
+2015,eu,BMW Group,4,377,4072
+2016,eu,Nissan,1,432,5900
+2016,global,RWE,2,2893,77698
+2014,india,UltraTech Cement,1,183,1456
+2021,texas,Enel,1,42,488
+2017,europe,Engie,1,18,211
+2017,global,BMW Group,2,225,2121
+2013,global,EDF,2,2662,129458
+2013,eu,EDF,3,2705,41574
+2014,eu,Moller Maersk (Maersk),1,42,631
+2019,eu,Bayer,2,155,1459
+2018,united_states,Nissan,2,203,9873
+2018,california,Nissan,1,177,6272
+2017,germany,Volkswagen Group,2,110,1215
+2020,india,Oil and Natural Gas Corporation (ONGC),5,186,2381
+2021,north_america,Air Liquide,1,111,1471
+2021,united_states,Daikin Industries,2,2631,41653
+2020,new_york,BP,1,64,511
+2020,india,Toyota Motor,3,473,4579
+2021,alabama,Southern Company,1,119,961
+2020,australia,Nissan,1,453,17290
+2018,italy,Eni,1,492,10827
+2016,eu,Naturgy (Gas Natural Fenosa),2,796,18165
+2012,eu,Volkswagen Group,1,100,915
+2019,global,Enel,2,126,1480
+2018,united_states,National Grid,1,53,1103
+2018,global,National Grid,1,53,1103
+2019,australia,Orica,1,48,772
+2018,india,EDF,1,769,6272
+2021,south_africa,Glencore International,1,90,3712
+2015,global,Naturgy (Gas Natural Fenosa),1,34,631
+2019,eu,PGE (Polska Grupa Energetyczna),1,41,762
+2018,japan,TotalEnergies,1,333,2487
+2020,global,Power Assets Holdings Limited,1,57,1227
+2021,united_kingdom,Boeing,1,178,3181
+2018,global,Lukoil,1,4240,119076
+2017,germany,BASF,2,206,2775
+2021,california,Phillips 66,1,49,623
+2016,australia,BHP,1,219,18550
+2016,africa,BHP,1,219,7420
+2021,canada,Ford Motor,1,55,1688
+2021,michigan,Ford Motor,1,55,844
+2018,united_kingdom,National Grid,1,27,608
+2021,eu,Rolls-Royce,2,86,1331
+2012,eu,Shell,1,63,668
+2021,europe,TotalEnergies,1,44,1088
+2015,united_states,FirstEnergy Corp,1,85,1463
+2016,eu,HeidelbergCement,4,3639,33045
+2017,africa,Eskom Holdings Soc Limited,2,180,2602
+105,global,Raytheon Technologies Corporation (formerly United Technologies),1,87,1876
+2017,united_states,PPL Corporation,2,160,2311
+2021,germany,ArcelorMittal,1,121,1140
+2018,australia,Chevron,3,364,7129
+2016,global,SSAB,5,351,4783
+2018,united_states,Marathon Petroleum,1,116,1161
+2020,canada,Toyota Motor,1,175,10821
+2019,global,Boral Limited,1,33,356
+2021,massachusetts,Exelon,1,18,483
+2018,united_kingdom,Coca-Cola,1,29,1234
+2016,united_states,Marathon Petroleum,3,1414,46179
+2017,united_states,PepsiCo,1,88,585
+2019,united_kingdom,Uniper,4,766,12781
+2018,mexico,Dow Inc,1,625,12566
+2021,global,Nippon Steel Corporation,2,3125,157461
+2021,eu,Rosneft,3,326,3239
+2020,europe,CEZ,1,144,1446
+2020,united_states,Phillips 66,4,2939,40914
+2019,australia,Anglo American,1,327,6375
+2012,global,Hitachi,1,64,775
+2015,global,AGL Australia,1,56,876
+2017,africa,Anglo American,3,9703,76807
+2019,global,Foxconn,1,3459,69930
+2016,africa,Glencore International,1,201,8847
+2016,canada,Glencore International,1,201,14745
+2016,eu,Glencore International,1,201,2949
+2021,united_states,International Paper Company,2,112,3465
+2014,global,ConocoPhillips,1,130,1034
+2018,australia,Orica,1,110,1759
+2021,global,AGL Australia,1,40,800
+2021,texas,BP,1,80,1129
+2014,canada,Chevron,1,149,1972
+2021,australia,Glencore International,1,95,598
+2017,global,Holcim,1,37,505
+2019,india,Toyota Motor,3,1073,9175
+2018,eu,Nestlé,1,62,605
+2016,global,Danone,2,664,10294
+2021,europe,Canadian Natural Resources Ltd (CNRL),1,54,1302
+2021,california,Chevron,1,246,4366
+2019,global,Canadian Natural Resources Ltd (CNRL),2,52,1383
+2019,canada,Canadian Natural Resources Ltd (CNRL),3,156,4216
+2015,united_kingdom,Nestlé,1,92,987
+2018,united_kingdom,Equinor (formerly Statoil),1,353,4798
+2016,europe,Toyota Motor,2,856,5895
+2016,eu,Toyota Motor,2,856,5895
+2019,global,Caterpillar,2,273,3143
+2014,global,RWE,3,849,11203
+2019,europe,BP,1,124,1200
+2017,united_states,Coca-Cola,2,298,2975
+2017,united_states,Daikin Industries,1,126,1002
+2014,japan,Toyota Motor,1,134,2846
+2021,australia,Woolworths Ltd,4,4279,55128
+2014,north_america,Enbridge,3,262,14623
+2020,united_kingdom,Saint-Gobain,1,136,1091
+2019,eu,Volkswagen Group,3,495,6495
+2020,global,Coal India,1,24,241
+2019,eu,Saint-Gobain,1,434,6908
+2019,europe,Saint-Gobain,1,434,3454
+2015,global,Cummins,1,79,528
+2015,china,Chevron,1,28,434
+2016,global,Daikin Industries,1,28,342
+2016,africa,Engie,1,35,620
+2012,global,ConocoPhillips,1,80,609
+2016,canada,BP,1,78,1185
+2016,canada,TotalEnergies,1,78,1185
+2018,united_states,PPL Corporation,2,201,3141
+2021,california,Vistra Corp,1,171,1268
+2015,canada,Imperial Oil Limited,1,417,4933
+2016,thailand,PTT Global Chemicals,1,100,1458
+2018,connecticut,NRG Energy,1,117,2673
+2012,north_america,Toyota Motor,1,88,968
+2021,global,LyondellBasell Industries,6,2879,29303
+2017,global,Ford Motor,4,3122,147755
+2021,europe,thyssenkrupp,4,3152,26037
+2018,china,Panasonic,1,242,2555
+2018,global,Pemex (Petróleos Mexicanos),1,118,894
+2021,australia,BHP,3,121,4043
+2013,global,Iberdrola,1,37,675
+2018,global,Unilever,2,154,3373
+2021,china,China Petroleum & Chemical Corporation (Sinopec),2,179,614
+2016,global,UltraTech Cement,1,69,853
+2014,global,China Steel,1,102,827
+2019,india,Coal India,2,151,4757
+2020,united_kingdom,Eni,1,119,998
+2019,global,Pemex (Petróleos Mexicanos),1,249,15879
+2018,california,Southern Company,1,155,1101
+2019,canada,Ford Motor,1,43,610
+2014,germany,Volkswagen Group,1,133,8716
+2018,united_kingdom,Saint-Gobain,1,71,791
+2019,europe,BASF,2,1140,13841
+2020,global,PPL Corporation,1,69,880
+2019,united_states,PPL Corporation,3,180,2374
+2017,australia,Woolworths Ltd,1,1603,20339
+2019,india,BP,1,36,718
+2020,illinois,Vistra Corp,1,39,1227
+2020,california,Unilever,1,130,7476
+2017,south_america,Vale,1,65,2580
+2020,germany,BASF,1,176,3032
+2016,australia,Toyota Motor,1,112,3720
+2014,united_states,Berkshire Hathaway,5,1119,26081
+2021,new_york,AES Corporation,1,14,270
+2018,australia,Rio Tinto Group,2,238,8525
+2017,united_states,ConocoPhillips,2,186,1380
+2017,india,Oil and Natural Gas Corporation (ONGC),3,91,2714
+2018,global,Volkswagen Group,2,3525,73766
+2018,global,LyondellBasell Industries,1,1714,35895
+2018,united_states,LyondellBasell Industries,1,1714,11965
+2013,united_states,Ford Motor,2,336,2863
+2013,eu,BASF,3,639,33326
+2021,united_kingdom,Airbus Group,4,1885,139687
+2020,eu,Lukoil,1,40,1094
+2018,global,Engie,3,446,4806
+2018,global,Phillips 66,1,2944,45730
+2018,united_states,TC Energy,1,75,1436
+2018,canada,TC Energy,1,75,1436
+2019,united_states,Duke Energy,5,1694,19683
+2014,united_states,PepsiCo,2,300,2758
+2016,global,Dow Inc,3,162,5234
+2020,japan,ENEOS Holdings (formerly JX Holdings Inc),3,13460,98679
+2020,global,Honda Motor,2,4618,46278
+2015,global,UltraTech Cement,1,34,480
+2020,united_kingdom,Bayer,1,39,233
+2020,germany,Uniper,1,39,247
+2021,united_states,Caterpillar,1,120,1132
+2019,germany,OMV,1,2301,38613
+2018,california,Honda Motor,2,742,28844
+2016,australia,Boral Limited,1,42,711
+2017,california,General Motors,1,116,2101
+2018,new_jersey,NRG Energy,1,237,4170
+2014,global,Nippon Steel Corporation,1,96,742
+2013,united_states,Valero Energy,1,94,709
+2014,global,Enbridge,1,59,864
+2019,north_america,Suncor Energy,1,43,319
+2021,japan,Hitachi,2,5814,69371
+2015,united_states,Lockheed Martin,1,269,8626
+2012,eu,Fortum,1,46,2364
+2016,united_states,Eni,1,101,989
+2017,global,LyondellBasell Industries,1,434,5595
+2012,united_kingdom,Unilever,1,80,889
+2021,new_jersey,PACCAR,1,16,480
+2020,europe,Glencore International,1,59,652
+2021,south_america,Grupo Argos,1,58,345
+2018,nevada,Berkshire Hathaway,1,139,1570
+2018,global,Eskom Holdings Soc Limited,2,64,2433
+2019,united_states,Walmart Stores,2,199,2799
+2018,europe,Dow Inc,1,22,292
+2013,eu,BP,1,181,24318
+2021,japan,Daikin Industries,1,162,2133
+2021,brazil,Daikin Industries,2,1855,17387
+2012,canada,Shell,1,340,2700
+2019,global,E.ON,3,455,11693
+2017,global,OMV,2,181,1849
+2020,middle_east,Air Liquide,1,35,406
+2021,australia,Orica,2,2942,40354
+2021,eu,Orica,1,1220,17891
+2018,japan,Air Liquide,1,91,1133
+2019,global,Nestlé,2,86,771
+2021,global,Nissan,3,1188,12314
+2018,global,Boral Limited,1,32,643
+2020,north_america,Weyerhaeuser Company,1,76,953
+2020,global,Weyerhaeuser Company,1,76,953
+2014,eu,SSAB,3,569,14130
+2014,eu,Centrica,1,128,2140
+2021,australia,Holcim,2,74,789
+2013,eu,Rio Tinto Group,2,163,1366
+2015,france,Engie,1,466,10713
+2018,california,PepsiCo,1,21,334
+2017,global,UltraTech Cement,1,66,944
+2014,australia,Origin Energy,5,260,8063
+2020,global,TC Energy,1,29,492
+2013,eu,TotalEnergies,1,53,9222
+2013,global,TotalEnergies,2,2473,78899
+2019,united_states,National Grid,2,136,11358
+2019,united_states,TotalEnergies,3,84,2507
+2019,united_states,Equinor (formerly Statoil),1,25,1266
+2021,australia,Toyota Motor,1,109,1656
+2020,united_states,Kinder Morgan,2,169,1600
+2020,washington,BP,1,42,185
+2017,india,Toyota Motor,3,226,2374
+2019,germany,Volkswagen Group,1,61,645
+2020,united_states,International Paper Company,1,74,2320
+2020,global,Antam (Aneka Tambang),1,39,439
+2019,asia,PTT Global Chemicals,1,29,616
+2017,global,Enbridge,2,2249,233619
+2017,canada,Enbridge,1,2231,46665
+2017,north_america,Enbridge,1,2231,46665
+2019,china,PetroChina Company Limited,3,125,1443
+2017,united_kingdom,Ford Motor,1,137,1382
+2020,asia,Bumi Resources,2,405,2954
+2014,eu,BP,1,194,11631
+2019,global,BMW Group,1,4115,38536
+2019,eu,BMW Group,1,4115,115608
+2014,united_states,HeidelbergCement,1,49,775
+2017,united_kingdom,Valero Energy,3,218,13053
+2015,united_states,Iberdrola,2,1133,60408
+2019,new_mexico,XCEL Energy,1,35,579
+2021,africa,Equinor (formerly Statoil),1,87,972
+2015,eu,ArcelorMittal,2,239,1882
+2013,united_states,PepsiCo,1,128,1559
+2021,eu,Nestlé,2,150,3372
+2018,eu,Holcim,4,1101,10607
+2021,north_america,Occidental Petroleum,2,329,4149
+2015,global,Boeing,1,100,885
+2021,europe,Repsol,1,40,227
+2020,united_states,Enbridge,1,61,330
+2018,global,Incitec Pivot,2,153,1730
+2021,spain,Siemens Energy,1,57,746
+2020,france,Renault,1,78,977
+2021,netherlands,Air Liquide,1,99,1013
+2015,united_states,Dominion Energy,1,61,710
+2021,eu,Unilever,3,206,4489
+2018,global,Valero Energy,2,114,995
+2021,spain,Air Liquide,1,42,556
+2017,united_states,TotalEnergies,1,52,1065
+2017,global,Daikin Industries,3,1095,14770
+2016,eu,General Electric,3,963,27092
+2021,global,Kinder Morgan,2,68,1141
+2018,canada,Rio Tinto Group,1,37,824
+2021,europe,Sasol,1,92,1063
+2020,asia,PTT Global Chemicals,2,49,636
+2017,united_states,Canadian Natural Resources Ltd (CNRL),1,24,347
+2005,eu,Daikin Industries,1,1035,1966
+2010,china,Daikin Industries,1,1035,1966
+2021,india,Daikin Industries,1,1693,15254
+2015,eu,Saint-Gobain,1,297,3482
+2018,china,Cummins,1,240,2116
+2018,north_america,Cummins,1,240,8464
+2017,japan,Honda Motor,1,48,559
+2017,japan,Nissan,1,48,559
+2018,france,Engie,2,161,2697
+2021,united_kingdom,Ford Motor,2,837,15933
+2020,united_states,Berkshire Hathaway,1,86,1381
+2021,united_states,Kinder Morgan,3,176,3902
+2018,united_states,Nestlé,4,161,2610
+2018,united_states,Procter & Gamble,2,69,1247
+2018,oceania,Bluescope Steel,1,385,30164
+2018,eu,Volkswagen Group,1,77,671
+2017,global,Repsol,3,85,1784
+2016,india,Shell,1,63,324
+2017,global,Santos,2,74,402
+2018,united_states,FirstEnergy Corp,5,1500,27990
+2021,new_zealand,Bluescope Steel,1,2521,29057
+2021,california,Nissan,1,217,4349
+2019,global,Procter & Gamble,1,32,250
+2021,europe,Bayer,1,500,3691
+2020,global,Occidental Petroleum,2,118,2379
+2020,australia,Chevron,1,86,1501
+2015,eu,Origin Energy,1,207,1616
+2018,illinois,Exelon,1,16,309
+2015,global,POSCO,1,93,790
+2021,california,NRG Energy,1,85,1066
+2017,europe,BASF,1,141,1641
+2021,california,Stellantis,1,153,1630
+2016,global,Bayer,1,254,4415
+2016,china,Bayer,1,254,4415
+2016,germany,Bayer,1,254,4415
+2020,united_states,Devon Energy,1,150,2028
+2018,united_states,Lockheed Martin,1,4006,66720
+2014,global,ArcelorMittal,1,132,1161
+2019,eu,Iberdrola,4,365,7413
+2018,india,Honda Motor,1,87,968
+2020,global,FirstEnergy Corp,1,87,2436
+2017,eu,Airbus Group,1,79,1232
+2020,global,Suzano (formerly Fibria Celulose),1,51,639
+2020,united_states,General Electric,2,376,5333
+2019,global,Sasol,4,426,5018
+2016,united_states,Shell,2,158,2508
+2020,europe,National Grid,1,111,2241
+2021,united_kingdom,Nissan,1,75,7640
+2015,global,Volvo Group,1,209,806
+2020,global,Bunge Limited,1,451,18116
+2016,global,Valero Energy,1,77,684
+2014,canada,Holcim,1,107,1650
+2019,united_states,Boeing,1,210,1638
+2018,africa,Vale,1,49,869
+2013,global,BASF,1,278,4365
+2016,united_kingdom,National Grid,1,293,2005
+2016,global,Toray Industries Inc.,1,133,763
+2020,global,Boral Limited,1,34,428
+2019,france,Air France-KLM,3,103,1251
+2016,australia,Orica,1,37,719
+2021,new_york,Exelon,1,150,2350
+2015,eu,Air France-KLM,2,2465,56449
+2013,global,Lukoil,1,1074,70285
+2018,spain,Iberdrola,1,57,1568
+2021,north_america,Honda Motor,1,56,1202
+2013,global,PepsiCo,1,1219,41114
+2021,colorado,Toyota Motor,1,708,6538
+2015,united_states,Ford Motor,2,245,2242
+2015,united_states,Martin Marietta Materials,1,13,209
+2012,global,Equinor (formerly Statoil),1,33,371
+2017,united_kingdom,Equinor (formerly Statoil),1,73,1014
+2021,eu,Chevron,1,44,246
+2014,eu,BMW Group,3,3728,41452
+2018,korea,Korea Electric Power Corporation (KEPCO),2,4463,29197
+2018,asia,Korea Electric Power Corporation (KEPCO),1,4392,28705
+2018,global,Hitachi,2,5112,64870
+2020,global,Hitachi,4,18498,267591
+2018,global,American Electric Power,1,584,18098
+2019,eu,Repsol,3,274,8573
+2021,europe,BMW Group,1,898,8286
+2015,global,LyondellBasell Industries,1,43,481
+2015,eu,LyondellBasell Industries,1,276,10680
+2014,global,National Grid,1,100,2032
+2016,eu,ExxonMobil,1,397,2744
+2018,global,Colgate-Palmolive,1,91,732
+2020,australia,ExxonMobil,2,68,1533
+2013,united_states,Toyota Motor,1,242,1744
+2021,united_kingdom,Suzuki,1,217,1929
+2016,united_states,Iberdrola,1,20,656
+2011,global,Enel,1,102,667
+2018,global,Reliance Industries Limited,1,33,334
+2015,oceania,Origin Energy,1,22,368
+2017,germany,Uniper,1,229,2426
+2018,south_africa,Sasol,1,24,281
+2013,global,Rio Tinto Group,1,60,943
+2020,united_kingdom,Rolls-Royce,2,281,3267
+2018,united_kingdom,Shell,1,46,527
+2019,eu,Naturgy (Gas Natural Fenosa),1,97,2922
+2018,global,ConocoPhillips,1,33,405
+2015,united_states,Marathon Petroleum,1,194,1126
+2020,global,Air France-KLM,2,258,1714
+2020,global,POSCO,2,1157,59070
+2020,district_of_columbia,Exelon,1,49,810
+2017,canada,Ford Motor,1,52,725
+2021,france,Air Liquide,1,101,766
+2014,eu,ExxonMobil,1,137,1265
+2012,australia,Rio Tinto Group,1,34,647
+2021,united_kingdom,Rolls-Royce,3,1553,36326
+2021,africa,BASF,1,158,3526
+2017,global,American Airlines Group,1,88,760
+2017,global,United Airlines,1,88,760
+2014,global,LyondellBasell Industries,1,15020,56416
+2015,united_states,Air Liquide,1,57,1042
+2020,eu,ConocoPhillips,1,257,2507
+2020,united_kingdom,Equinor (formerly Statoil),1,39,221
+2013,eu,Dow Inc,2,1168,22733
+2017,global,Toyota Motor,4,4166,40291
+2021,united_states,SK Innovation Co,1,192,2119
+2019,europe,HeidelbergCement,1,74,1446
+2019,germany,HeidelbergCement,1,74,1446
+2017,united_kingdom,Toyota Motor,1,362,3946
+2019,united_kingdom,BP,1,26,256
+2019,illinois,NRG Energy,1,212,4154
+2020,europe,PepsiCo,1,26,383
+2015,eu,SSE,2,134,2040
+2015,global,SSE,3,228,4133
+2021,texas,Occidental Petroleum,2,567,4942
+2011,global,China Steel,1,20,210
+2016,global,American Electric Power,1,443,5166
+2020,france,Air France-KLM,2,278,4612
+2017,global,Cummins,1,1592,16112
+2016,france,EDF,2,206,2690
+2020,germany,Fortum,2,295,3006
+2021,global,Delta Air Lines,3,847,13036
+2020,united_kingdom,Phillips 66,2,96,621
+2016,germany,E.ON,1,45,507
+2017,global,PTT Global Chemicals,2,100,1477
+2017,thailand,PTT Global Chemicals,1,75,2102
+2016,global,Gazprom,2,159,1528
+2019,global,Danone,3,47,276
+2021,india,BP,1,35,853
+2021,united_kingdom,ExxonMobil,1,59,1191
+2017,eu,E.ON,3,411,15254
+2016,eu,Trane Technologies (formerly Ingersoll-Rand),1,52,599
+2015,north_america,Enel,1,116,627
+2014,united_states,BASF,3,256,2810
+2019,california,Nissan,1,90,929
+2015,global,Woodside,2,542,22081
+2016,canada,General Electric,1,218,3896
+2016,canada,Shell,1,218,1948
+2016,canada,Unilever,1,218,3896
+2010,australia,BHP,1,72,1330
+2017,italy,Enel,1,84,998
+2014,united_states,Valero Energy,1,190,1663
+2020,canada,Suncor Energy,1,112,1306
+2020,canada,TotalEnergies,1,112,1306
+2019,global,Imperial Oil Limited,3,6602,144576
+2014,global,Bayer,1,377,6932
+2020,asia,United Tractors,1,2619,59890
+2019,japan,Hitachi,1,5634,45913
+2018,africa,ArcelorMittal,2,2690,39597
+2021,global,SK Innovation Co,1,1201,29760
+2015,south_africa,Eskom Holdings Soc Limited,1,66,1386
+2017,europe,Gazprom,1,31,545
+2020,eu,Cummins,1,464,5791
+2015,canada,Shell,4,590,6995
+2020,oceania,OMV,2,126,6960
+2019,eu,Air Liquide,3,595,5507
+2020,texas,Vistra Corp,1,248,2623
+2016,eu,Equinor (formerly Statoil),2,1626,23058
+2019,united_states,International Paper Company,2,63,1725
+2012,united_states,Nissan,2,5322,72328
+2012,united_states,Toyota Motor,2,2594,37280
+2017,global,Nornickel (MMC Norilsk Nickel),1,79,977
+2020,global,Grupo Argos,1,37,213
+2015,australia,ExxonMobil,1,119,3142
+2016,united_states,BMW Group,1,62,1201
+2021,asia,PTT Global Chemicals,1,121,1549
+2016,australia,General Electric,1,35,617
+2012,eu,National Grid,1,101,3094
+2018,global,Uniper,2,204,5233
+2021,new_zealand,Holcim,1,119,6648
+2013,united_states,Walmart Stores,1,113,939
+2017,europe,Air Liquide,1,67,1120
+2016,global,Nestlé,1,235,13893
+2016,united_states,Nestlé,2,259,5627
+2017,france,EDF,1,44,427
+2016,europe,SSAB,3,141,1578
+2016,eu,thyssenkrupp,3,1808,26964
+2017,australia,Dow Inc,1,121,1419
+2014,global,Incitec Pivot,1,139,6160
+2016,europe,Centrica,2,378,5437
+2016,eu,Centrica,2,643,14385
+2021,new_zealand,Nissan,1,59,589
+2015,global,Saudi Aramco,1,47,679
+2015,global,Suzuki,1,2972,133269
+2019,north_america,ConocoPhillips,1,128,1979
+2016,canada,ConocoPhillips,1,47,928
+2021,korea,Air Liquide,1,94,862
+2016,global,General Electric,1,157,1881
+2015,united_states,Kinder Morgan,1,577,8625
+2014,global,Ford Motor,2,442,6914
+2012,australia,Nissan,1,78,597
+2019,california,Lockheed Martin,1,401,3494
+2019,global,Lockheed Martin,1,401,3494
+2020,global,American Electric Power,1,18,157
+2013,africa,ArcelorMittal,1,1912,24235
+2010,global,BMW Group,1,2398,33052
+2015,australia,General Electric,2,364,5589
+2019,north_america,Kinder Morgan,2,1030,21396
+2019,global,American Airlines Group,1,92,1688
+2021,global,Coca-Cola,2,757,9744
+2019,australia,South32,1,272,3153
+2011,australia,BHP,1,140,1410
+2019,global,National Grid,1,130,6207
+2020,global,General Motors,2,129,1256
+2021,africa,Chevron,1,156,781
+2020,europe,SSE,1,116,2442
+2020,california,BMW Group,2,50,953
+2020,california,Honda Motor,1,17,389
+2020,california,Volkswagen Group,1,17,389
+2019,canada,Repsol,1,149,1966
+2021,united_states,BMW Group,1,156,3750
+2021,california,Honda Motor,1,156,2500
+2021,california,BMW Group,1,156,1250
+2021,california,Volkswagen Group,1,156,1250
+2015,united_states,ConocoPhillips,4,593,15933
+2020,global,NRG Energy,1,470,4176
+2014,united_states,PPL Corporation,1,122,2306
+2018,united_states,Unilever,2,75,2762
+2021,asia,Coal India,1,29,628
+2017,africa,Glencore International,1,3410,42852
+2021,africa,General Electric,1,9,71
+2021,eu,Cummins,1,255,3554
+2015,united_kingdom,Valero Energy,1,161,2623
+2020,japan,Daikin Industries,1,2013,23087
+2017,global,Duke Energy,2,863,22540
+2019,south_america,Vale,2,522,7902
+2021,global,Duke Energy,1,870,15918
+2017,global,Moller Maersk (Maersk),1,194,1356
+2016,africa,South32,1,77,1039
+2021,global,Gazprom,1,200,1881
+2021,asia,Gazprom,1,200,1881
+2009,united_states,Duke Energy,1,96,523
+2014,japan,Honda Motor,1,100,4284
+2015,japan,Honda Motor,1,100,2142
+2021,india,Shell,1,421,9126
+2013,eu,Equinor (formerly Statoil),1,393,34836
+2018,california,Marathon Petroleum,1,45,1006
+2021,france,Saint-Gobain,1,149,1647
+2021,france,EDF,1,49,1102
+2016,north_america,Air Liquide,1,35,629
+2019,canada,Vale,1,361,6048
+2019,eu,Vale,1,361,3024
+2018,global,China Petroleum & Chemical Corporation (Sinopec),1,2998,108432
+2019,eu,Air France-KLM,1,133,2052
+2019,united_states,Air Liquide,1,38,991
+2021,taiwan,China Steel,1,43,506
+2018,india,Coal India,2,967,12630
+2015,eu,SSAB,3,682,5466
+2018,germany,thyssenkrupp,1,71,1023
+2015,new_york,Exelon,1,901,10934
+2021,united_kingdom,Anglo American,1,212,5020
+2015,eu,General Electric,1,10,346
+2015,eu,Unilever,1,10,346
+2013,eu,Renault,1,149,1166
+2020,africa,SSAB,1,30,473
+2020,africa,General Electric,1,100,721
+2016,eu,Repsol,1,382,13004
+2017,asia,Toyota Motor,1,324,2808
+2021,global,Ecopetrol,1,136,1452
+2018,united_states,Delta Air Lines,1,29,536
+2021,korea,Korea Electric Power Corporation (KEPCO),1,34,233
+2017,global,China Shenhua Energy,1,2281,26815
+2019,global,TC Energy,1,26,702
+2018,global,Toyota Motor,1,30,575
+2020,europe,OMV,1,55,298
+2017,germany,Suncor Energy,1,81,1278
+2013,united_states,PPL Corporation,1,112,1906
+2018,united_states,Valero Energy,2,143,1016
+2015,india,Vedanta Resources,1,50,278
+2014,australia,Woodside,1,30,523
+2012,eu,Unilever,1,43,259
+2018,eu,Hitachi,1,291,3587
+2015,india,BP,1,56,477
+2019,eu,Nissan,1,37,1152
+2016,united_states,PPL Corporation,1,1987,91176
+2016,global,PPL Corporation,1,1987,60784
+2020,global,Eskom Holdings Soc Limited,1,45,290
+2020,europe,Nestlé,1,27,345
+2014,global,Airbus Group,1,192,5726
+2014,eu,Airbus Group,1,192,2863
+2020,texas,NRG Energy,2,606,7808
+2019,germany,CEZ,1,32,589
+2012,eu,Holcim,1,140,1257
+2021,global,Coal India,1,397,3342
+2015,global,TC Energy,1,413,3593
+2016,eu,Airbus Group,1,26,606
+2013,eu,Valero Energy,2,4168,147048
+2013,united_kingdom,Valero Energy,1,4113,144720
+2020,canada,Rio Tinto Group,1,471,8390
+2015,africa,Sasol,1,3339,43992
+2014,eu,Dow Inc,2,124,2844
+2017,canada,Vale,1,13742,176433
+2017,global,Eni,1,95,846
+2016,eu,BP,2,295,2569
+2016,canada,Kinder Morgan,1,91,1284
+2018,australia,Incitec Pivot,1,51,1046
+2018,california,BP,1,20,359
+2017,global,Occidental Petroleum,1,25,296
+2021,germany,HeidelbergCement,1,72,816
+2017,united_states,Occidental Petroleum,1,78,3075
+2019,global,Renault,1,34,178
+2021,south_africa,South32,1,48,858
+2014,global,Berkshire Hathaway,1,2150,38715
+2010,united_states,Valero Energy,1,490,7409
+2020,eu,United Airlines,1,145,2143
+2019,global,Cummins,1,125,1064
+2017,eu,ExxonMobil,2,130,2037
+2014,japan,Nissan,1,116,3716
+2016,united_states,Toyota Motor,2,1238,18027
+2020,eu,BMW Group,2,3051,17137
+2014,germany,BASF,1,330,1828
+2015,africa,Anglo American,2,296,3767
+2021,new_zealand,Renault,1,181,6464
+2012,united_states,POSCO,1,109,1528
+2019,oceania,Bluescope Steel,1,50,1010
+2018,global,General Motors,2,4069,47029
+2021,global,Origin Energy,1,72,373
+2015,global,Caterpillar,2,95,1307
+2021,united_states,Moller Maersk (Maersk),1,61,252
+2019,north_america,Weyerhaeuser Company,1,7031,118774
+2019,south_africa,ArcelorMittal,1,23,407
+2015,united_kingdom,National Grid,2,226,1544
+2016,eu,Rio Tinto Group,1,138,4174
+2016,africa,Rio Tinto Group,1,138,4174
+2014,united_kingdom,SSE,2,367,6321
+2021,global,Vistra Corp,1,86,3006
+2020,global,Toray Industries Inc.,1,2003,20230
+2017,south_america,Dow Inc,1,757,42690
+2020,oceania,Bluescope Steel,2,1718,14764
+2013,australia,Woodside,1,178,1331
+2020,germany,Shell,1,119,1428
+2013,united_kingdom,BASF,1,522,4557
+2021,california,Marathon Petroleum,1,1288,18110
+2015,africa,BHP,1,130,2129
+2015,africa,Glencore International,1,130,2129
+2018,north_america,AES Corporation,1,91,605
+2016,global,Iberdrola,2,2714,62925
+2018,eu,Centrica,1,248,3677
+2018,japan,Hitachi,1,82,1206
+2019,europe,CEZ,1,47,1041
+2016,czech_republic,TotalEnergies,1,1097,10957
+2015,united_states,Unilever,1,987,78940
+2015,united_states,Procter & Gamble,1,987,19735
+2018,south_america,Dow Inc,1,1542,18539
+2018,china,PetroChina Company Limited,1,22,358
+2019,north_america,Devon Energy,1,60,1114
+2014,eu,General Electric,1,13,319
+2013,eu,Holcim,1,87,2067
+2016,global,China Steel,1,39,3690
+2016,taiwan,China Steel,1,39,615
+2021,illinois,NRG Energy,1,230,2473
+2020,global,Rosneft,1,49,892
+2020,eu,Colgate-Palmolive,1,462,6224
+2017,global,Phillips 66,1,2681,15627
+2018,global,Woolworths Ltd,1,2176,24485
+2015,eu,Rio Tinto Group,1,310,2014
+2018,australia,Korea Electric Power Corporation (KEPCO),2,159,1778
+2017,united_states,Berkshire Hathaway,1,76,1695
+2014,united_kingdom,National Grid,1,1199,26846
+2016,united_states,Phillips 66,2,231,4148
+2020,eu,Renault,1,79,528
+2019,global,Korea Electric Power Corporation (KEPCO),1,52,724
+2015,united_states,Trane Technologies (formerly Ingersoll-Rand),1,2371,34311
+2021,global,Stellantis,2,178,2055
+2017,global,International Paper Company,1,126,1282
+2019,global,ConocoPhillips,1,17,486
+2016,eu,Holcim,2,198,3427
+2018,united_states,Trane Technologies (formerly Ingersoll-Rand),1,33,566
+2020,united_states,SSAB,1,94,1588
+2019,eu,RWE,1,36,1102
+2015,canada,TC Energy,1,125,5517
+2019,global,Fortum,1,104,1167
+2019,eu,Philips,1,104,1167
+2020,global,Severstal,1,26,588
+2018,europe,OMV,1,50,616
+2021,global,Lockheed Martin,1,3601,65112
+2017,united_states,Raytheon Technologies Corporation (formerly United Technologies),1,77,1595
+2021,germany,Rio Tinto Group,1,72,400
+2019,global,LyondellBasell Industries,1,56,2526
+2015,united_states,Occidental Petroleum,1,46,612
+2019,california,Enel,1,140,2083
+2020,netherlands,Uniper,1,95,1663
+2016,united_states,RWE,1,16,261
+2017,europe,Lukoil,1,1172,23583
+2017,global,Lukoil,1,1172,7861
+2011,united_kingdom,ConocoPhillips,1,518,10173
+2020,global,Gazprom,1,238,5436
+2016,united_states,Occidental Petroleum,1,95,1056
+2014,united_states,Exelon,2,3203,155273
+2018,global,Volvo Group,1,4303,82534
+2020,united_states,HeidelbergCement,1,131,907
+2021,australia,South32,1,68,600
+2019,japan,Honda Motor,1,126,1189
+2021,canada,Vale,1,31,514
+2020,germany,Saint-Gobain,1,209,3779
+2019,africa,South32,1,83,1675
+2020,united_states,Air Liquide,1,192,2486
+2017,africa,South32,1,203,1778
+2017,global,South32,1,203,889
+2017,australia,South32,1,203,889
+2018,eu,LyondellBasell Industries,1,345,4381
+2021,texas,Dow Inc,1,12,215
+2016,global,PTT Global Chemicals,1,29,649
+2021,new_zealand,Ford Motor,1,157,6732
+2019,netherlands,Air France-KLM,1,34,477
+2018,europe,Equinor (formerly Statoil),1,48,685
+2015,global,Airbus Group,2,1189,20076
+2020,germany,Bayer,1,89,753
+2016,australia,Santos,1,265,18080
+2018,california,Chevron,1,158,3821
+2015,eu,Holcim,2,486,29762
+2018,germany,E.ON,1,20,714
+2014,global,POSCO,1,112,805
+2014,global,HeidelbergCement,1,2273,21517
+2016,middle_east,Saudi Aramco,1,21,113
+2020,china,General Motors,1,41,563
+2017,europe,CEZ,1,32,511
+2021,italy,Air Liquide,1,58,477
+2020,france,EDF,2,2794,37061
+2018,europe,Saint-Gobain,1,405,4501
+2012,australia,Unilever,1,152,1697
+2016,eu,Nestlé,1,65,714
+2018,florida,Duke Energy,1,106,754
+2015,africa,Chevron,1,79,794
+2013,eu,Eni,1,194,14852
+2021,australia,RWE,1,67,1745
+2015,eu,Delta Air Lines,1,3869,50210
+2021,united_kingdom,Toyota Motor,1,819,25984
+2015,canada,BP,1,108,1517
+2017,china,BP,1,229,1574
+2017,eu,BP,1,229,1574
+2018,spain,Enel,1,175,1558
+2021,europe,ArcelorMittal,2,1584,11586
+2018,global,UltraTech Cement,1,75,467
+2019,australia,Holcim,1,162,2441
+2018,new_jersey,United Airlines,1,36,683
+2018,global,Bayer,1,3617,49661
+2013,europe,Valero Energy,1,55,1164
+2019,global,Woolworths Ltd,1,2949,36799
+2016,united_states,BASF,1,58,1762
+2016,united_states,Raytheon Technologies Corporation (formerly United Technologies),1,58,1762
+2019,africa,BMW Group,1,87,935
+2019,africa,Nissan,1,87,935
+2019,africa,Volkswagen Group,1,87,935
+2020,australia,Glencore International,2,106,2152
+2021,california,Valero Energy,1,27,549
+2019,united_kingdom,Coca-Cola,1,87,783
+2017,global,HeidelbergCement,1,78,1144
+2015,global,Toray Industries Inc.,1,95,782
+2014,united_states,Nissan,1,30,508
+2021,europe,Qantas Airways,1,79,809
+2017,global,Sasol,1,222,3005
+2020,texas,BP,1,111,1088
+2020,texas,Shell,1,111,1088
+2017,united_states,Boeing,1,50,833
+2013,global,Duke Energy,1,28,394
+2013,united_states,Duke Energy,1,28,394
+2019,australia,Qantas Airways,1,184,1801
+2017,australia,Boral Limited,1,64,1572
+2018,europe,Volvo Group,1,154,6081
+2021,oceania,Bluescope Steel,1,105,1887
+2021,germany,Air Liquide,1,105,1277
+2012,australia,BHP,1,245,1627
+2017,europe,OMV,1,27,128
+2012,global,Rio Tinto Group,1,27,1508
