@@ -138,6 +138,7 @@ data/raw/
 data/processed/combined.jsonl
 data/processed/.Rhistory
 data/processed/.RData
+Fig/
 
 
 # Spyder project settings
